@@ -1,9 +1,69 @@
 'use client'
+import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { 
   Sprout, Droplet, TrendingUp, Truck, Wrench, Users, ShoppingCart, Mic
 } from 'lucide-react'
+
+// WMO Weather interpretation codes → human-readable label + colour
+const WMO_CODES = {
+  0: { label: 'Clear Sky', color: 'text-yellow-500' },
+  1: { label: 'Mainly Clear', color: 'text-yellow-400' },
+  2: { label: 'Partly Cloudy', color: 'text-slate-500' },
+  3: { label: 'Overcast', color: 'text-slate-600' },
+  45: { label: 'Foggy', color: 'text-slate-400' },
+  48: { label: 'Icy Fog', color: 'text-slate-400' },
+  51: { label: 'Light Drizzle', color: 'text-blue-400' },
+  53: { label: 'Drizzle', color: 'text-blue-500' },
+  55: { label: 'Heavy Drizzle', color: 'text-blue-600' },
+  61: { label: 'Light Rain', color: 'text-blue-400' },
+  63: { label: 'Rain', color: 'text-blue-500' },
+  65: { label: 'Heavy Rain', color: 'text-blue-700' },
+  71: { label: 'Light Snow', color: 'text-sky-300' },
+  73: { label: 'Snow', color: 'text-sky-400' },
+  75: { label: 'Heavy Snow', color: 'text-sky-500' },
+  80: { label: 'Rain Showers', color: 'text-blue-500' },
+  81: { label: 'Heavy Showers', color: 'text-blue-600' },
+  95: { label: 'Thunderstorm', color: 'text-purple-500' },
+  99: { label: 'Severe Storm', color: 'text-red-500' },
+}
+
+function useRealTimeWeather() {
+  const [weather, setWeather] = useState({ temp: null, condition: null, color: null, loading: true, error: null })
+
+  useEffect(() => {
+    if (!navigator.geolocation) {
+      setWeather(w => ({ ...w, loading: false, error: 'Geolocation unavailable' }))
+      return
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      async ({ coords: { latitude, longitude } }) => {
+        try {
+          const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,weathercode&temperature_unit=celsius&timezone=auto`
+          const res = await fetch(url)
+          if (!res.ok) throw new Error('Weather API error')
+          const data = await res.json()
+          const code = data.current.weathercode
+          const info = WMO_CODES[code] ?? { label: 'Unknown', color: 'text-slate-500' }
+          setWeather({
+            temp: Math.round(data.current.temperature_2m),
+            condition: info.label,
+            color: info.color,
+            loading: false,
+            error: null,
+          })
+        } catch (err) {
+          setWeather(w => ({ ...w, loading: false, error: 'Failed to load weather' }))
+        }
+      },
+      () => setWeather(w => ({ ...w, loading: false, error: 'Location denied' }))
+    )
+  }, [])
+
+  return weather
+}
 
 const modules = [
   { id: 1, title: 'Crop Health AI', icon: <Sprout size={32} />, desc: 'Detect diseases from leaf images via YOLOv8', color: 'bg-green-100 text-green-600', link: '/disease-detect' },
@@ -17,6 +77,8 @@ const modules = [
 ]
 
 export default function Home() {
+  const { temp, condition, color, loading, error } = useRealTimeWeather()
+
   return (
     <div className="max-w-7xl mx-auto">
       {/* Header Segment */}
@@ -28,9 +90,17 @@ export default function Home() {
         <div className="text-right glass-panel px-6 py-3 rounded-xl">
           <p className="text-sm font-medium text-slate-500 uppercase tracking-widest">Curr Weather</p>
           <div className="flex items-center gap-2 mt-1">
-            <span className="text-3xl font-bold text-slate-800">28°C</span>
-            <span className="text-slate-400">|</span>
-            <span className="text-blue-500 font-medium">Clear Sky</span>
+            {loading ? (
+              <span className="text-slate-400 text-sm animate-pulse">Fetching…</span>
+            ) : error ? (
+              <span className="text-slate-400 text-sm">{error}</span>
+            ) : (
+              <>
+                <span className="text-3xl font-bold text-slate-800">{temp}°C</span>
+                <span className="text-slate-400">|</span>
+                <span className={`font-medium ${color}`}>{condition}</span>
+              </>
+            )}
           </div>
         </div>
       </div>

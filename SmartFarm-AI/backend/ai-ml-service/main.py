@@ -1230,20 +1230,355 @@ async def recommend_crop(req: CropRecommendRequest):
         "total_candidates_evaluated": len(results),
     }
 
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 🎙️  VOICE ASSISTANT ENDPOINTS
+# ══════════════════════════════════════════════════════════════════════════════
+
+import base64, io, tempfile, asyncio
+from typing import Any, Dict, List, Optional
+from pydantic import BaseModel
+
+class VoiceChatMessage(BaseModel):
+    role: str   # "user" | "ai"
+    text: str
+
+class VoiceChatRequest(BaseModel):
+    message: str
+    history: List[VoiceChatMessage] = []
+    lang: str = "en"
+    image_base64: Optional[str] = None   # base64 JPEG for disease detection
+
+class VoiceTTSRequest(BaseModel):
+    text: str
+    lang: str = "en"   # en, hi, mr, ta, te, bn, pa, gu
+
+# ── Language mapping ──────────────────────────────────────────────────────────
+LANG_GTTS = {"en": "en", "hi": "hi", "mr": "mr", "ta": "ta",
+             "te": "te", "bn": "bn", "pa": "pa", "gu": "gu", "hinglish": "hi"}
+
+# ── Offline FAQ cache (returned when Gemini is unavailable) ───────────────────
+OFFLINE_FAQ = {
+    "default": "Sorry, I could not reach the servers. Please check your internet connection and try again.",
+    "wheat":   "Wheat (Gehun) MSP is ₹2,275 per quintal for 2024-25. Typical harvest in March-May.",
+    "rice":    "Rice/Paddy MSP is ₹2,300 per quintal. Kharif crop — harvest in September-November.",
+    "tomato":  "Tomato prices fluctuate heavily. Check your nearest mandi for today's rate.",
+    "disease": "Upload a clear leaf photo in good lighting for disease detection.",
+}
+
+# ── Gemini voice prompt builder ───────────────────────────────────────────────
+def _build_voice_prompt(user_message: str, history: list, lang: str,
+                        tool_data: dict) -> str:
+    history_text = ""
+    for m in history[-6:]:   # last 3 turns max
+        role = "Farmer" if m.role == "user" else "Assistant"
+        history_text += f"{role}: {m.text}\n"
+
+    data_section = f"\n\nBACKEND DATA:\n{json.dumps(tool_data, ensure_ascii=False, indent=2)}" if tool_data else ""
+
+    lang_instruction = {
+        "hi": "Reply ONLY in Hindi (Devanagari script). Keep it simple and friendly for a rural farmer.",
+        "mr": "Reply ONLY in Marathi. Keep it simple and friendly for a rural farmer.",
+        "ta": "Reply ONLY in Tamil. Keep it simple and friendly for a rural farmer.",
+        "te": "Reply ONLY in Telugu. Keep it simple and friendly for a rural farmer.",
+        "hinglish": "Reply in Hinglish (mix Hindi and English naturally, like a friend talking). Use Roman script for Hindi words.",
+        "en": "Reply in simple English suitable for a farmer.",
+    }.get(lang, "Reply in simple English.")
+
+    return f"""You are SmartFarm AI Voice Assistant — an intelligent agricultural advisor for Indian farmers.
+{lang_instruction}
+
+CONVERSATION HISTORY:
+{history_text}
+Farmer: {user_message}
+{data_section}
+
+Instructions:
+- Be concise (3-5 sentences max for voice output)
+- Give specific, actionable advice based on the backend data provided
+- Mention exact prices, quantities, and product names when available
+- If backend data is empty, give general expert agronomic advice
+- Always end with one helpful follow-up suggestion
+- Do NOT use markdown formatting — plain text only (it will be spoken aloud)
+- Show empathy and speak like a knowledgeable local agricultural expert (KVK advisor)
+
+Your response:"""
+
+
+def _detect_intent(message: str, image_given: bool) -> dict:
+    """Use Gemini to detect intent and extract entities from the farmer's message."""
+    prompt = f"""Analyze this farmer's voice query and extract intent + entities.
+Query: "{message}"
+Image attached: {image_given}
+
+Reply ONLY with this JSON (no markdown):
+{{
+  "intent": "<one of: mandi_price|crop_recommend|disease_detect|weather_check|scheme_info|irrigation|general_farming|smalltalk>",
+  "crop": "<crop name or null>",
+  "location": "<city/district/state or null>",
+  "state": "<Indian state full name or null>",
+  "commodity": "<mandi commodity name or null>",
+  "lang_detected": "<en|hi|mr|ta|te|hinglish>",
+  "farm_context": "<any farm parameters mentioned: size, soil, budget, etc. or null>"
+}}"""
+    try:
+        from google import genai as g
+        from google.genai import types as gt
+        client = g.Client(api_key=GEMINI_API_KEY)
+        resp = client.models.generate_content(
+            model="gemini-2.0-flash",
+            contents=prompt,
+            config=gt.GenerateContentConfig(temperature=0.0, max_output_tokens=512),
+        )
+        raw = resp.text.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        return json.loads(raw)
+    except Exception as e:
+        logger.warning(f"Intent detection failed: {e}")
+        # Cheap keyword fallback
+        ml = message.lower()
+        intent = "general_farming"
+        if any(w in ml for w in ["price", "bhav", "rate", "mandi", "market", "दाम", "भाव"]):
+            intent = "mandi_price"
+        elif any(w in ml for w in ["crop", "plant", "grow", "recommend", "suggest", "kya ugaun", "फसल"]):
+            intent = "crop_recommend"
+        elif any(w in ml for w in ["disease", "bimari", "leaf", "spot", "yellow", "rot", "बीमारी"]):
+            intent = "disease_detect"
+        elif any(w in ml for w in ["weather", "rain", "mausam", "temperature", "मौसम"]):
+            intent = "weather_check"
+        elif any(w in ml for w in ["scheme", "yojana", "subsidy", "government", "सरकार", "योजना"]):
+            intent = "scheme_info"
+        if image_given:
+            intent = "disease_detect"
+        return {"intent": intent, "crop": None, "location": None, "state": None,
+                "commodity": None, "lang_detected": "en", "farm_context": None}
+
+
+def _tool_mandi_price(commodity: str, state: str, location: str) -> dict:
+    """Fetch live/static mandi price data."""
+    try:
+        # Try live fetch first
+        if _live_fetcher_ok:
+            from live_mandi_fetcher import fetch_live_prices_gov
+            records = fetch_live_prices_gov(
+                state=state or "Madhya Pradesh",
+                commodity=commodity or "Wheat",
+                limit=10,
+            )
+            if records:
+                records.sort(key=lambda x: x.get("modal_price", 0), reverse=True)
+                return {"source": "live_api", "commodity": commodity,
+                        "state": state, "prices": records[:5]}
+        # Fallback to static mandi_data
+        from mandi_data import normalize_commodity, get_commodities_for_state, MANDIS
+        norm = normalize_commodity(commodity or "Wheat") or "WHEAT"
+        state_mandis = [m for m in MANDIS if state and m.get("state", "").lower() == state.lower()]
+        if not state_mandis:
+            state_mandis = MANDIS[:3]
+        prices = []
+        for mandi in state_mandis[:3]:
+            p = get_price_for_commodity(norm, mandi["id"])
+            if p:
+                prices.append({**p, "mandi_name": mandi["name"], "district": mandi["district"]})
+        return {"source": "static_db", "commodity": commodity, "state": state, "prices": prices}
+    except Exception as e:
+        logger.warning(f"Mandi price tool failed: {e}")
+        return {"error": str(e), "prices": []}
+
+
+def _tool_weather(location: str) -> dict:
+    """Fetch weather via Open-Meteo for a location."""
+    try:
+        import urllib.request
+        # Geocode city → lat/lng using Open-Meteo geocoding API
+        city = (location or "Bhopal").replace(" ", "+")
+        geo_url = f"https://geocoding-api.open-meteo.com/v1/search?name={city}&count=1&language=en&format=json"
+        with urllib.request.urlopen(geo_url, timeout=5) as r:
+            geo = json.loads(r.read())
+        results = geo.get("results", [])
+        if not results:
+            return {"error": "Location not found"}
+        lat, lng = results[0]["latitude"], results[0]["longitude"]
+        place = results[0].get("name", location)
+        wx_url = (f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lng}"
+                  f"&current=temperature_2m,relative_humidity_2m,weathercode,wind_speed_10m"
+                  f"&temperature_unit=celsius&timezone=auto")
+        with urllib.request.urlopen(wx_url, timeout=5) as r:
+            wx = json.loads(r.read())
+        cur = wx.get("current", {})
+        WMO = {0:"Clear Sky",1:"Mainly Clear",2:"Partly Cloudy",3:"Overcast",
+               45:"Foggy",51:"Light Drizzle",61:"Light Rain",63:"Rain",
+               65:"Heavy Rain",71:"Light Snow",80:"Rain Showers",95:"Thunderstorm"}
+        code = cur.get("weathercode", 0)
+        return {
+            "place": place, "temperature_c": cur.get("temperature_2m"),
+            "humidity_pct": cur.get("relative_humidity_2m"),
+            "wind_kmh": cur.get("wind_speed_10m"),
+            "condition": WMO.get(code, "Unknown"),
+        }
+    except Exception as e:
+        logger.warning(f"Weather tool failed: {e}")
+        return {"error": str(e)}
+
+
+def _tool_disease_detect_base64(image_b64: str) -> dict:
+    """Run disease detection on a base64-encoded image."""
+    try:
+        img_bytes = base64.b64decode(image_b64)
+        if gemini_client:
+            return call_gemini(img_bytes)
+        elif plant_classifier:
+            pil_img = Image.open(io.BytesIO(img_bytes)).convert("RGB")
+            return call_plantvillage(pil_img)
+        return {"error": "No AI model available"}
+    except Exception as e:
+        return {"error": str(e)}
+
+
+def _tool_scheme_info(state: str) -> dict:
+    """Return top eligible schemes for default farmer profile."""
+    try:
+        farmer = MOCK_PROFILES_DB.get("FARMER_123")
+        if not farmer:
+            return {"schemes": []}
+        schemes = []
+        for s_id, scheme in list(MOCK_SCHEMES_DB.items())[:10]:
+            elig = determine_eligibility(scheme, farmer)
+            schemes.append({
+                "name": scheme.name,
+                "benefit": scheme.ai_short_benefit_line,
+                "eligible": elig.eligible == "Eligible",
+                "category": scheme.scheme_type,
+            })
+        schemes.sort(key=lambda x: not x["eligible"])
+        return {"schemes": schemes[:5]}
+    except Exception as e:
+        return {"error": str(e), "schemes": []}
+
+
+@app.post("/api/v1/voice/chat")
+async def voice_chat(req: VoiceChatRequest):
+    """
+    🎙️ Voice Assistant Orchestrator
+
+    Pipeline:
+      1. Intent detection + entity extraction via Gemini
+      2. Tool execution (mandi prices / crop recommend / disease / weather / schemes)
+      3. Natural language response generation via Gemini
+    Returns: { reply, intent, data, lang_detected }
+    """
+    if not GEMINI_API_KEY and not gemini_client:
+        # Offline FAQ fallback
+        msg_lower = req.message.lower()
+        fallback = OFFLINE_FAQ.get(
+            next((k for k in OFFLINE_FAQ if k in msg_lower), "default"),
+            OFFLINE_FAQ["default"]
+        )
+        return {"reply": fallback, "intent": "offline", "data": {}, "lang_detected": req.lang}
+
+    # ── Stage 1: Intent detection ──────────────────────────────────────────────
+    image_given = bool(req.image_base64)
+    intent_data = _detect_intent(req.message, image_given)
+    intent = intent_data.get("intent", "general_farming")
+    lang = intent_data.get("lang_detected", req.lang) or req.lang
+    crop = intent_data.get("crop")
+    state = intent_data.get("state")
+    location = intent_data.get("location")
+    commodity = intent_data.get("commodity") or crop
+
+    # ── Stage 2: Tool execution ────────────────────────────────────────────────
+    tool_data: Dict[str, Any] = {}
+
+    try:
+        if intent == "mandi_price":
+            tool_data = _tool_mandi_price(commodity, state, location)
+
+        elif intent == "crop_recommend":
+            # Build a CropRecommendRequest with defaults, override state if extracted
+            cr = CropRecommendRequest(state=state or "Maharashtra")
+            rec_result = await recommend_crop(cr)
+            tool_data = {
+                "top_crops": [
+                    {"name": c["crop_name"], "profit_inr": c["estimated_profit_inr"],
+                     "risk_pct": round(c["risk_score"]*100),
+                     "suitability_pct": round(c["suitability_score"]*100)}
+                    for c in rec_result.get("crops", [])[:3]
+                ]
+            }
+
+        elif intent == "disease_detect":
+            if image_given:
+                tool_data = _tool_disease_detect_base64(req.image_base64)
+            else:
+                tool_data = {"note": "No image provided — giving general disease prevention advice"}
+
+        elif intent == "weather_check":
+            tool_data = _tool_weather(location or state or "Bhopal")
+
+        elif intent == "scheme_info":
+            tool_data = _tool_scheme_info(state)
+
+        elif intent == "irrigation":
+            tool_data = {"advice": "Check soil moisture. For drip irrigation, 25-35% field capacity is optimal for most crops."}
+
+    except Exception as e:
+        logger.warning(f"Tool execution error for intent={intent}: {e}")
+        tool_data = {"tool_error": str(e)}
+
+    # ── Stage 3: Gemini response generation ────────────────────────────────────
+    prompt = _build_voice_prompt(req.message, req.history, lang, tool_data)
+    try:
+        from google import genai as g
+        from google.genai import types as gt
+        client = g.Client(api_key=GEMINI_API_KEY)
+        resp = client.models.generate_content(
+            model="gemini-2.0-flash",
+            contents=prompt,
+            config=gt.GenerateContentConfig(temperature=0.4, max_output_tokens=1024),
+        )
+        reply = resp.text.strip()
+    except Exception as e:
+        logger.warning(f"Gemini response generation failed: {e}")
+        # Build a rule-based fallback reply
+        if intent == "mandi_price" and tool_data.get("prices"):
+            p = tool_data["prices"][0]
+            reply = (f"The modal price for {commodity or 'this commodity'} is "
+                     f"₹{p.get('modal_price', 'N/A')} per quintal"
+                     f" in {p.get('market', p.get('mandi_name', 'your area'))}.")
+        elif intent == "weather_check" and "temperature_c" in tool_data:
+            reply = (f"Current weather in {tool_data.get('place', location)}: "
+                     f"{tool_data['temperature_c']}°C, {tool_data.get('condition', '')}. "
+                     f"Humidity {tool_data.get('humidity_pct', '')}%.")
+        else:
+            reply = "I'm having trouble reaching the AI server. Please try again in a moment."
+
+    return {
+        "reply": reply,
+        "intent": intent,
+        "data": tool_data,
+        "lang_detected": lang,
+    }
+
+
+@app.post("/api/v1/voice/tts")
+def voice_tts(req: VoiceTTSRequest):
+    """
+    🔊 Text-to-Speech using gTTS.
+    Returns base64-encoded MP3 audio.
+    """
+    try:
+        from gtts import gTTS
+        gtts_lang = LANG_GTTS.get(req.lang, "en")
+        tts = gTTS(text=req.text, lang=gtts_lang, slow=False)
+        buf = io.BytesIO()
+        tts.write_to_fp(buf)
+        buf.seek(0)
+        audio_b64 = base64.b64encode(buf.read()).decode("utf-8")
+        return {"status": "success", "audio_base64": audio_b64, "lang": gtts_lang}
+    except Exception as e:
+        logger.warning(f"gTTS failed: {e}")
+        return {"status": "error", "message": str(e)}
+
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8001, reload=False)
 
-
-
-@app.get("/api/v1/mandi/historical-prices")
-def mandi_historical(commodity: str, state: str = None, market: str = None, days: int = 30):
-    """
-    Fetch last N days of price data from Agmarknet for a commodity.
-    Returns list of {date, min_price, modal_price, max_price}.
-    """
-    import time
-    cache_key = f"hist|{state}|{commodity}|{days}"
-    now_ts = time.time()
-
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8001, reload=False)
