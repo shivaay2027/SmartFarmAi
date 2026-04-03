@@ -1,0 +1,11946 @@
+// AUTO-GENERATED: Master DB of 100% REAL active mandis from Agmarknet API (Last 5 Days)
+export const MANDI_DB = [
+  {
+    "id": "m1000",
+    "state": "Andaman And Nicobar",
+    "district": "North And Middle Andaman",
+    "sub": "Diglipur Apmc",
+    "name": "Diglipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1001",
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "sub": "Anantapur Apmc",
+    "name": "Anantapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1002",
+    "state": "Andhra Pradesh",
+    "district": "Chittor",
+    "sub": "Chittoor Apmc",
+    "name": "Chittoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1003",
+    "state": "Andhra Pradesh",
+    "district": "Chittor",
+    "sub": "Kalikiri Apmc",
+    "name": "Kalikiri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1004",
+    "state": "Andhra Pradesh",
+    "district": "Chittor",
+    "sub": "Punganur Apmc",
+    "name": "Punganur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1005",
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "sub": "Jaggampet Apmc",
+    "name": "Jaggampet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1006",
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "sub": "Duggirala Apmc",
+    "name": "Duggirala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1007",
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "sub": "Guntur Apmc",
+    "name": "Guntur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1008",
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "sub": "Adoni Apmc",
+    "name": "Adoni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1009",
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "sub": "Kurnool Apmc",
+    "name": "Kurnool Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1010",
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "sub": "Anakapally Apmc",
+    "name": "Anakapally Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1011",
+    "state": "Assam",
+    "district": "Barpeta",
+    "sub": "Barpeta Road Apmc",
+    "name": "Barpeta Road Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1012",
+    "state": "Assam",
+    "district": "Darrang",
+    "sub": "Balugaon Apmc",
+    "name": "Balugaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1013",
+    "state": "Assam",
+    "district": "Darrang",
+    "sub": "Besimari Apmc",
+    "name": "Besimari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1014",
+    "state": "Assam",
+    "district": "Darrang",
+    "sub": "Kharupetia Apmc",
+    "name": "Kharupetia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1015",
+    "state": "Assam",
+    "district": "Dhubri",
+    "sub": "Gauripur Apmc",
+    "name": "Gauripur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1016",
+    "state": "Assam",
+    "district": "Kamrup",
+    "sub": "Fancy Bazaar Apmc",
+    "name": "Fancy Bazaar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1017",
+    "state": "Assam",
+    "district": "Kamrup",
+    "sub": "Pamohi(Garchuk) Apmc",
+    "name": "Pamohi(Garchuk) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1018",
+    "state": "Assam",
+    "district": "Nagaon",
+    "sub": "Dhing Apmc",
+    "name": "Dhing Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1019",
+    "state": "Assam",
+    "district": "Sonitpur",
+    "sub": "Dhekiajuli Apmc",
+    "name": "Dhekiajuli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1020",
+    "state": "Bihar",
+    "district": "Buxar",
+    "sub": "Buxur Apmc",
+    "name": "Buxur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1021",
+    "state": "Bihar",
+    "district": "Rohtas",
+    "sub": "Natwar Apmc",
+    "name": "Natwar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1022",
+    "state": "Chattisgarh",
+    "district": "Balodabazar",
+    "sub": "Balodabazar Apmc",
+    "name": "Balodabazar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1023",
+    "state": "Chattisgarh",
+    "district": "Balodabazar",
+    "sub": "Bhatgaon Apmc",
+    "name": "Bhatgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1024",
+    "state": "Chattisgarh",
+    "district": "Balodabazar",
+    "sub": "Kasdol Apmc",
+    "name": "Kasdol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1025",
+    "state": "Chattisgarh",
+    "district": "Balrampur",
+    "sub": "Ramanujganj Apmc",
+    "name": "Ramanujganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1026",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Jairamnagar Apmc",
+    "name": "Jairamnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1027",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Kota Apmc",
+    "name": "Kota Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1028",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Pendraroad Apmc",
+    "name": "Pendraroad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1029",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Ratanpur Apmc",
+    "name": "Ratanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1030",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Sakri Apmc",
+    "name": "Sakri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1031",
+    "state": "Chattisgarh",
+    "district": "Bilaspur",
+    "sub": "Takhatpur Apmc",
+    "name": "Takhatpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1032",
+    "state": "Chattisgarh",
+    "district": "Janjgir",
+    "sub": "Naila Apmc",
+    "name": "Naila Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1033",
+    "state": "Chattisgarh",
+    "district": "Jashpur",
+    "sub": "Jaspur Apmc",
+    "name": "Jaspur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1034",
+    "state": "Chattisgarh",
+    "district": "Jashpur",
+    "sub": "Kotba Apmc",
+    "name": "Kotba Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1035",
+    "state": "Chattisgarh",
+    "district": "Jashpur",
+    "sub": "Pathalgaon Apmc",
+    "name": "Pathalgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1036",
+    "state": "Chattisgarh",
+    "district": "Kabirdham",
+    "sub": "Pandariya Apmc",
+    "name": "Pandariya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1037",
+    "state": "Chattisgarh",
+    "district": "Kanker",
+    "sub": "Bhanupratappur Apmc",
+    "name": "Bhanupratappur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1038",
+    "state": "Chattisgarh",
+    "district": "Kanker",
+    "sub": "Charama Apmc",
+    "name": "Charama Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1039",
+    "state": "Chattisgarh",
+    "district": "Kanker",
+    "sub": "Narharpur Apmc",
+    "name": "Narharpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1040",
+    "state": "Chattisgarh",
+    "district": "Kanker",
+    "sub": "Sambalpur Apmc",
+    "name": "Sambalpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1041",
+    "state": "Chattisgarh",
+    "district": "Kondagaon",
+    "sub": "Dhanora Apmc",
+    "name": "Dhanora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1042",
+    "state": "Chattisgarh",
+    "district": "Kondagaon",
+    "sub": "Gamhari Apmc",
+    "name": "Gamhari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1043",
+    "state": "Chattisgarh",
+    "district": "Kondagaon",
+    "sub": "Keshkal Apmc",
+    "name": "Keshkal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1044",
+    "state": "Chattisgarh",
+    "district": "Korba",
+    "sub": "Katghora Apmc",
+    "name": "Katghora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1045",
+    "state": "Chattisgarh",
+    "district": "Koria",
+    "sub": "Baikunthpur Apmc",
+    "name": "Baikunthpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1046",
+    "state": "Chattisgarh",
+    "district": "Koria",
+    "sub": "Manendragarh Apmc",
+    "name": "Manendragarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1047",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Bhavarpur Apmc",
+    "name": "Bhavarpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1048",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Bhoring Apmc",
+    "name": "Bhoring Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1049",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Mahasamund Apmc",
+    "name": "Mahasamund Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1050",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Pithoura Apmc",
+    "name": "Pithoura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1051",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Sakra Apmc",
+    "name": "Sakra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1052",
+    "state": "Chattisgarh",
+    "district": "Mahasamund",
+    "sub": "Sarayapali Apmc",
+    "name": "Sarayapali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1053",
+    "state": "Chattisgarh",
+    "district": "Raigarh",
+    "sub": "Dharamjaygarh Apmc",
+    "name": "Dharamjaygarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1054",
+    "state": "Chattisgarh",
+    "district": "Raigarh",
+    "sub": "Raigarh Apmc",
+    "name": "Raigarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1055",
+    "state": "Chattisgarh",
+    "district": "Raigarh",
+    "sub": "Salihabhata Apmc",
+    "name": "Salihabhata Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1056",
+    "state": "Chattisgarh",
+    "district": "Raigarh",
+    "sub": "Sariya Apmc",
+    "name": "Sariya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1057",
+    "state": "Chattisgarh",
+    "district": "Raipur",
+    "sub": "Abhanpur Apmc",
+    "name": "Abhanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1058",
+    "state": "Chattisgarh",
+    "district": "Raipur",
+    "sub": "Neora Apmc",
+    "name": "Neora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1059",
+    "state": "Chattisgarh",
+    "district": "Rajnandgaon",
+    "sub": "Dongargarh Apmc",
+    "name": "Dongargarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1060",
+    "state": "Chattisgarh",
+    "district": "Rajnandgaon",
+    "sub": "Gandai Apmc",
+    "name": "Gandai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1061",
+    "state": "Chattisgarh",
+    "district": "Rajnandgaon",
+    "sub": "Kheragarh Apmc",
+    "name": "Kheragarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1062",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "sub": "Ahmedabad Apmc",
+    "name": "Ahmedabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1063",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "sub": "Ahmedabad(Chimanbhai Patal Market Vasana) Apmc",
+    "name": "Ahmedabad(Chimanbhai Patal Market Vasana) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1064",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "sub": "Dhandhuka Apmc",
+    "name": "Dhandhuka Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1065",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "sub": "Dholka Apmc",
+    "name": "Dholka Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1066",
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "sub": "Sanad Apmc",
+    "name": "Sanad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1067",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Amreli Apmc",
+    "name": "Amreli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1068",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Bagasara Apmc",
+    "name": "Bagasara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1069",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Damnagar Apmc",
+    "name": "Damnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1070",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Dhari Apmc",
+    "name": "Dhari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1071",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Rajula Apmc",
+    "name": "Rajula Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1072",
+    "state": "Gujarat",
+    "district": "Amreli",
+    "sub": "Savarkundla Apmc",
+    "name": "Savarkundla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1073",
+    "state": "Gujarat",
+    "district": "Anand",
+    "sub": "Anand(Veg,Yard,Anand) Apmc",
+    "name": "Anand(Veg,Yard,Anand) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1074",
+    "state": "Gujarat",
+    "district": "Anand",
+    "sub": "Borsad Apmc",
+    "name": "Borsad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1075",
+    "state": "Gujarat",
+    "district": "Anand",
+    "sub": "Khambhat(Grain Market) Apmc",
+    "name": "Khambhat(Grain Market) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1076",
+    "state": "Gujarat",
+    "district": "Anand",
+    "sub": "Khambhat(Veg Yard Khambhat) Apmc",
+    "name": "Khambhat(Veg Yard Khambhat) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1077",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Bhabhar Apmc",
+    "name": "Bhabhar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1078",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Deesa Apmc",
+    "name": "Deesa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1079",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Deesa(Bhildi) Apmc",
+    "name": "Deesa(Bhildi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1080",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Dhanera Apmc",
+    "name": "Dhanera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1081",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Diyodar Apmc",
+    "name": "Diyodar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1082",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Lakhani Apmc",
+    "name": "Lakhani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1083",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Palanpur Apmc",
+    "name": "Palanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1084",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Thara Apmc",
+    "name": "Thara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1085",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Thara(Shihori) Apmc",
+    "name": "Thara(Shihori) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1086",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Tharad Apmc",
+    "name": "Tharad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1087",
+    "state": "Gujarat",
+    "district": "Banaskanth",
+    "sub": "Vadgam Apmc",
+    "name": "Vadgam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1088",
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "sub": "Ankleshwar Apmc",
+    "name": "Ankleshwar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1089",
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "sub": "Bharuch Apmc",
+    "name": "Bharuch Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1090",
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "sub": "Bhavnagar Apmc",
+    "name": "Bhavnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1091",
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "sub": "Mahuva(Station Road) Apmc",
+    "name": "Mahuva(Station Road) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1092",
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "sub": "Palitana Apmc",
+    "name": "Palitana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1093",
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "sub": "Taleja Apmc",
+    "name": "Taleja Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1094",
+    "state": "Gujarat",
+    "district": "Botad",
+    "sub": "Botad Apmc",
+    "name": "Botad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1095",
+    "state": "Gujarat",
+    "district": "Botad",
+    "sub": "Botad(Haddad) Apmc",
+    "name": "Botad(Haddad) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1096",
+    "state": "Gujarat",
+    "district": "Chhota Udaipur",
+    "sub": "Hadad     Apmc",
+    "name": "Hadad     Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1097",
+    "state": "Gujarat",
+    "district": "Chhota Udaipur",
+    "sub": "Modasar Apmc",
+    "name": "Modasar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1098",
+    "state": "Gujarat",
+    "district": "Dahod",
+    "sub": "Dahod Apmc",
+    "name": "Dahod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1099",
+    "state": "Gujarat",
+    "district": "Dahod",
+    "sub": "Dahod(Veg. Market) Apmc",
+    "name": "Dahod(Veg. Market) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1100",
+    "state": "Gujarat",
+    "district": "Dahod",
+    "sub": "Davgadbaria(Piplod) Apmc",
+    "name": "Davgadbaria(Piplod) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1101",
+    "state": "Gujarat",
+    "district": "Dahod",
+    "sub": "Devgadhbaria Apmc",
+    "name": "Devgadhbaria Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1102",
+    "state": "Gujarat",
+    "district": "Devbhumi Dwarka",
+    "sub": "Bhanvad Apmc",
+    "name": "Bhanvad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1103",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Dehgam Apmc",
+    "name": "Dehgam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1104",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Dehgam(Rekhiyal) Apmc",
+    "name": "Dehgam(Rekhiyal) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1105",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Kalol Apmc",
+    "name": "Kalol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1106",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Kalol(Veg,Market,Kalol) Apmc",
+    "name": "Kalol(Veg,Market,Kalol) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1107",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Mansa Apmc",
+    "name": "Mansa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1108",
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "sub": "Mansa(Manas Veg Yard) Apmc",
+    "name": "Mansa(Manas Veg Yard) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1109",
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "sub": "Talalagir Apmc",
+    "name": "Talalagir Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1110",
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "sub": "Veraval Apmc",
+    "name": "Veraval Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1111",
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "sub": "Dhrol Apmc",
+    "name": "Dhrol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1112",
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "sub": "Jam Jodhpur Apmc",
+    "name": "Jam Jodhpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1113",
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "sub": "Jamnagar Apmc",
+    "name": "Jamnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1114",
+    "state": "Gujarat",
+    "district": "Junagarh",
+    "sub": "Junagadh Apmc",
+    "name": "Junagadh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1115",
+    "state": "Gujarat",
+    "district": "Junagarh",
+    "sub": "Manavdar Apmc",
+    "name": "Manavdar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1116",
+    "state": "Gujarat",
+    "district": "Junagarh",
+    "sub": "Visavadar Apmc",
+    "name": "Visavadar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1117",
+    "state": "Gujarat",
+    "district": "Kachchh",
+    "sub": "Rapar Apmc",
+    "name": "Rapar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1118",
+    "state": "Gujarat",
+    "district": "Kheda",
+    "sub": "Kapadvanj Apmc",
+    "name": "Kapadvanj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1119",
+    "state": "Gujarat",
+    "district": "Kheda",
+    "sub": "Nadiad Apmc",
+    "name": "Nadiad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1120",
+    "state": "Gujarat",
+    "district": "Kheda",
+    "sub": "Nadiyad(Chaklasi) Apmc",
+    "name": "Nadiyad(Chaklasi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1121",
+    "state": "Gujarat",
+    "district": "Kheda",
+    "sub": "Nadiyad(Piplag) Apmc",
+    "name": "Nadiyad(Piplag) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1122",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Kadi Apmc",
+    "name": "Kadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1123",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Mehsana Apmc",
+    "name": "Mehsana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1124",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Mehsana(Jornang) Apmc",
+    "name": "Mehsana(Jornang) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1125",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Mehsana(Mehsana Veg) Apmc",
+    "name": "Mehsana(Mehsana Veg) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1126",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Unava Apmc",
+    "name": "Unava Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1127",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Vijapur Apmc",
+    "name": "Vijapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1128",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Vijapur(Gojjariya) Apmc",
+    "name": "Vijapur(Gojjariya) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1129",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Vijapur(Veg) Apmc",
+    "name": "Vijapur(Veg) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1130",
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "sub": "Visnagar Apmc",
+    "name": "Visnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1131",
+    "state": "Gujarat",
+    "district": "Morbi",
+    "sub": "Apmc Halvad",
+    "name": "Apmc Halvad APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1132",
+    "state": "Gujarat",
+    "district": "Morbi",
+    "sub": "Morbi Apmc",
+    "name": "Morbi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1133",
+    "state": "Gujarat",
+    "district": "Morbi",
+    "sub": "Vankaner Apmc",
+    "name": "Vankaner Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1134",
+    "state": "Gujarat",
+    "district": "Narmada",
+    "sub": "Rajpipla Apmc",
+    "name": "Rajpipla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1135",
+    "state": "Gujarat",
+    "district": "Navsari",
+    "sub": "Bilimora Apmc",
+    "name": "Bilimora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1136",
+    "state": "Gujarat",
+    "district": "Navsari",
+    "sub": "Chikhali Apmc",
+    "name": "Chikhali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1137",
+    "state": "Gujarat",
+    "district": "Panchmahals",
+    "sub": "Gogamba Apmc",
+    "name": "Gogamba Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1138",
+    "state": "Gujarat",
+    "district": "Panchmahals",
+    "sub": "Gogamba(Similiya) Apmc",
+    "name": "Gogamba(Similiya) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1139",
+    "state": "Gujarat",
+    "district": "Patan",
+    "sub": "Harij Apmc",
+    "name": "Harij Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1140",
+    "state": "Gujarat",
+    "district": "Patan",
+    "sub": "Radhanpur Apmc",
+    "name": "Radhanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1141",
+    "state": "Gujarat",
+    "district": "Patan",
+    "sub": "Siddhpur Apmc",
+    "name": "Siddhpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1142",
+    "state": "Gujarat",
+    "district": "Porbandar",
+    "sub": "Porbandar Apmc",
+    "name": "Porbandar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1143",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Gondal Apmc",
+    "name": "Gondal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1144",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Gondal(Veg.Market Gondal) Apmc",
+    "name": "Gondal(Veg.Market Gondal) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1145",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Jasdan(Vichhiya) Apmc",
+    "name": "Jasdan(Vichhiya) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1146",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Jetpur(Dist.Rajkot) Apmc",
+    "name": "Jetpur(Dist.Rajkot) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1147",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Rajkot Apmc",
+    "name": "Rajkot Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1148",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "sub": "Rajkot(Veg.Sub Yard) Apmc",
+    "name": "Rajkot(Veg.Sub Yard) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1149",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Apmckhedbrahma",
+    "name": "Apmckhedbrahma APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1150",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Dhansura Apmc",
+    "name": "Dhansura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1151",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Himatnagar Apmc",
+    "name": "Himatnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1152",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Idar Apmc",
+    "name": "Idar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1153",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Meghraj Apmc",
+    "name": "Meghraj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1154",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Modasa Apmc",
+    "name": "Modasa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1155",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Modasa(Tintoi) Apmc",
+    "name": "Modasa(Tintoi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1156",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Talod Apmc",
+    "name": "Talod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1157",
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "sub": "Vadali Apmc",
+    "name": "Vadali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1158",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Bardoli(Kadod) Apmc",
+    "name": "Bardoli(Kadod) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1159",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Mandvi Apmc",
+    "name": "Mandvi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1160",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Songadh Apmc",
+    "name": "Songadh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1161",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Songadh(Badarpada) Apmc",
+    "name": "Songadh(Badarpada) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1162",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Songadh(Umrada) Apmc",
+    "name": "Songadh(Umrada) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1163",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Surat Apmc",
+    "name": "Surat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1164",
+    "state": "Gujarat",
+    "district": "Surat",
+    "sub": "Vyra Apmc",
+    "name": "Vyra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1165",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Chotila Apmc",
+    "name": "Chotila Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1166",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Dasada Patadi Apmc",
+    "name": "Dasada Patadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1167",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Dhragradhra Apmc",
+    "name": "Dhragradhra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1168",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Limdi Apmc",
+    "name": "Limdi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1169",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Sayala Apmc",
+    "name": "Sayala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1170",
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "sub": "Vadhvan Apmc",
+    "name": "Vadhvan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1171",
+    "state": "Gujarat",
+    "district": "Vadodara(Baroda)",
+    "sub": "Padra Apmc",
+    "name": "Padra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1172",
+    "state": "Gujarat",
+    "district": "Valsad",
+    "sub": "Chikli(Khorgam) Apmc",
+    "name": "Chikli(Khorgam) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1173",
+    "state": "Gujarat",
+    "district": "Valsad",
+    "sub": "Valsad Apmc",
+    "name": "Valsad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1174",
+    "state": "Haryana",
+    "district": "Ambala",
+    "sub": "Mullana(Saha) Apmc",
+    "name": "Mullana(Saha) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1175",
+    "state": "Haryana",
+    "district": "Ambala",
+    "sub": "Naraingarh Apmc",
+    "name": "Naraingarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1176",
+    "state": "Haryana",
+    "district": "Ambala",
+    "sub": "Shahzadpur Apmc",
+    "name": "Shahzadpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1177",
+    "state": "Haryana",
+    "district": "Bhiwani",
+    "sub": "Behal Apmc",
+    "name": "Behal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1178",
+    "state": "Haryana",
+    "district": "Bhiwani",
+    "sub": "Loharu Apmc",
+    "name": "Loharu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1179",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "sub": "Ballabhgarh Apmc",
+    "name": "Ballabhgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1180",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "sub": "Faridabad Apmc",
+    "name": "Faridabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1181",
+    "state": "Haryana",
+    "district": "Faridabad",
+    "sub": "New Grain Market , Faridabad Apmc",
+    "name": "New Grain Market , Faridabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1182",
+    "state": "Haryana",
+    "district": "Fatehabad",
+    "sub": "Ratia Apmc",
+    "name": "Ratia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1183",
+    "state": "Haryana",
+    "district": "Fatehabad",
+    "sub": "Tohana(New Veg Market) Apmc",
+    "name": "Tohana(New Veg Market) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1184",
+    "state": "Haryana",
+    "district": "Gurgaon",
+    "sub": "Gurgaon Apmc",
+    "name": "Gurgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1185",
+    "state": "Haryana",
+    "district": "Gurgaon",
+    "sub": "Pataudi Apmc",
+    "name": "Pataudi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1186",
+    "state": "Haryana",
+    "district": "Hissar",
+    "sub": "Barwala(Hisar) Apmc",
+    "name": "Barwala(Hisar) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1187",
+    "state": "Haryana",
+    "district": "Hissar",
+    "sub": "Hansi Apmc",
+    "name": "Hansi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1188",
+    "state": "Haryana",
+    "district": "Hissar",
+    "sub": "Hissar Apmc",
+    "name": "Hissar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1189",
+    "state": "Haryana",
+    "district": "Hissar",
+    "sub": "Uklana Apmc",
+    "name": "Uklana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1190",
+    "state": "Haryana",
+    "district": "Jind",
+    "sub": "Jind Apmc",
+    "name": "Jind Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1191",
+    "state": "Haryana",
+    "district": "Jind",
+    "sub": "Narwana Apmc",
+    "name": "Narwana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1192",
+    "state": "Haryana",
+    "district": "Jind",
+    "sub": "New Grain Market , Jind Apmc",
+    "name": "New Grain Market , Jind Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1193",
+    "state": "Haryana",
+    "district": "Jind",
+    "sub": "Safidon Apmc",
+    "name": "Safidon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1194",
+    "state": "Haryana",
+    "district": "Jind",
+    "sub": "Uchana Apmc",
+    "name": "Uchana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1195",
+    "state": "Haryana",
+    "district": "Kaithal",
+    "sub": "Cheeka Apmc",
+    "name": "Cheeka Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1196",
+    "state": "Haryana",
+    "district": "Kaithal",
+    "sub": "Dhand Apmc",
+    "name": "Dhand Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1197",
+    "state": "Haryana",
+    "district": "Kaithal",
+    "sub": "Kaithal Apmc",
+    "name": "Kaithal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1198",
+    "state": "Haryana",
+    "district": "Kaithal",
+    "sub": "Siwan Apmc",
+    "name": "Siwan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1199",
+    "state": "Haryana",
+    "district": "Karnal",
+    "sub": "Gharaunda Apmc",
+    "name": "Gharaunda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1200",
+    "state": "Haryana",
+    "district": "Kurukshetra",
+    "sub": "Ladwa Apmc",
+    "name": "Ladwa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1201",
+    "state": "Haryana",
+    "district": "Kurukshetra",
+    "sub": "Pehowa Apmc",
+    "name": "Pehowa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1202",
+    "state": "Haryana",
+    "district": "Mahendragarh-Narnaul",
+    "sub": "Narnaul Apmc",
+    "name": "Narnaul Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1203",
+    "state": "Haryana",
+    "district": "Mewat",
+    "sub": "Ferozpurzirkha(Nagina) Apmc",
+    "name": "Ferozpurzirkha(Nagina) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1204",
+    "state": "Haryana",
+    "district": "Mewat",
+    "sub": "Hathin Apmc",
+    "name": "Hathin Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1205",
+    "state": "Haryana",
+    "district": "Mewat",
+    "sub": "Nuh Apmc",
+    "name": "Nuh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1206",
+    "state": "Haryana",
+    "district": "Mewat",
+    "sub": "Punhana Apmc",
+    "name": "Punhana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1207",
+    "state": "Haryana",
+    "district": "Mewat",
+    "sub": "Tauru Apmc",
+    "name": "Tauru Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1208",
+    "state": "Haryana",
+    "district": "Palwal",
+    "sub": "Hassanpur Apmc",
+    "name": "Hassanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1209",
+    "state": "Haryana",
+    "district": "Palwal",
+    "sub": "Hodal Apmc",
+    "name": "Hodal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1210",
+    "state": "Haryana",
+    "district": "Palwal",
+    "sub": "Palwal Apmc",
+    "name": "Palwal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1211",
+    "state": "Haryana",
+    "district": "Panipat",
+    "sub": "Madlauda Apmc",
+    "name": "Madlauda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1212",
+    "state": "Haryana",
+    "district": "Panipat",
+    "sub": "Samalkha Apmc",
+    "name": "Samalkha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1213",
+    "state": "Haryana",
+    "district": "Rewari",
+    "sub": "Kosli Apmc",
+    "name": "Kosli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1214",
+    "state": "Haryana",
+    "district": "Rewari",
+    "sub": "Rewari Apmc",
+    "name": "Rewari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1215",
+    "state": "Haryana",
+    "district": "Rohtak",
+    "sub": "Meham Apmc",
+    "name": "Meham Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1216",
+    "state": "Haryana",
+    "district": "Rohtak",
+    "sub": "Rohtak Apmc",
+    "name": "Rohtak Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1217",
+    "state": "Haryana",
+    "district": "Sirsa",
+    "sub": "Ellanabad Apmc",
+    "name": "Ellanabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1218",
+    "state": "Haryana",
+    "district": "Sirsa",
+    "sub": "Kalanwali Apmc",
+    "name": "Kalanwali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1219",
+    "state": "Haryana",
+    "district": "Sirsa",
+    "sub": "Rania Apmc",
+    "name": "Rania Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1220",
+    "state": "Haryana",
+    "district": "Sirsa",
+    "sub": "Rania(Jiwan Nagar) Apmc",
+    "name": "Rania(Jiwan Nagar) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1221",
+    "state": "Haryana",
+    "district": "Sirsa",
+    "sub": "Sirsa Apmc",
+    "name": "Sirsa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1222",
+    "state": "Haryana",
+    "district": "Sonipat",
+    "sub": "Ganaur Apmc",
+    "name": "Ganaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1223",
+    "state": "Haryana",
+    "district": "Sonipat",
+    "sub": "Sonepat Apmc",
+    "name": "Sonepat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1224",
+    "state": "Haryana",
+    "district": "Yamuna Nagar",
+    "sub": "Chhachrauli Apmc",
+    "name": "Chhachrauli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1225",
+    "state": "Haryana",
+    "district": "Yamuna Nagar",
+    "sub": "Jagadhri Apmc",
+    "name": "Jagadhri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1226",
+    "state": "Himachal Pradesh",
+    "district": "Chamba",
+    "sub": "Pmy Chamba",
+    "name": "Pmy Chamba APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1227",
+    "state": "Himachal Pradesh",
+    "district": "Hamirpur",
+    "sub": "Pmy Hamirpur",
+    "name": "Pmy Hamirpur APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1228",
+    "state": "Himachal Pradesh",
+    "district": "Hamirpur",
+    "sub": "Smy Nadaun",
+    "name": "Smy Nadaun APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1229",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Pmy Kangra",
+    "name": "Pmy Kangra APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1230",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Baijnath",
+    "name": "Smy Baijnath APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1231",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Dharamshala",
+    "name": "Smy Dharamshala APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1232",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Jaisinghpur",
+    "name": "Smy Jaisinghpur APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1233",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Jassur",
+    "name": "Smy Jassur APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1234",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Jwalaji",
+    "name": "Smy Jwalaji APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1235",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Nagrota Bagwan",
+    "name": "Smy Nagrota Bagwan APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1236",
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "sub": "Smy Palampur",
+    "name": "Smy Palampur APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1237",
+    "state": "Himachal Pradesh",
+    "district": "Kullu",
+    "sub": "Pmy Kullu",
+    "name": "Pmy Kullu APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1238",
+    "state": "Himachal Pradesh",
+    "district": "Kullu",
+    "sub": "Smy Bhuntar",
+    "name": "Smy Bhuntar APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1239",
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "sub": "Pmy Kangni Mandi",
+    "name": "Pmy Kangni Mandi APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1240",
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "sub": "Smy Dhanotu",
+    "name": "Smy Dhanotu APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1241",
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "sub": "Smy Jogindernagar",
+    "name": "Smy Jogindernagar APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1242",
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "sub": "Smy Takoli",
+    "name": "Smy Takoli APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1243",
+    "state": "Himachal Pradesh",
+    "district": "Shimla",
+    "sub": "Smy Rampur",
+    "name": "Smy Rampur APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1244",
+    "state": "Himachal Pradesh",
+    "district": "Shimla",
+    "sub": "Smy Rohroo",
+    "name": "Smy Rohroo APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1245",
+    "state": "Himachal Pradesh",
+    "district": "Solan",
+    "sub": "Pmy Kather Solan",
+    "name": "Pmy Kather Solan APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1246",
+    "state": "Himachal Pradesh",
+    "district": "Solan",
+    "sub": "Smy Nalagarh",
+    "name": "Smy Nalagarh APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1247",
+    "state": "Himachal Pradesh",
+    "district": "Una",
+    "sub": "Pmy Una",
+    "name": "Pmy Una APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1248",
+    "state": "Himachal Pradesh",
+    "district": "Una",
+    "sub": "Smy Santoshgarh",
+    "name": "Smy Santoshgarh APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1249",
+    "state": "Jammu And Kashmir",
+    "district": "Jammu",
+    "sub": "Narwal Jammu (F&V) Apmc",
+    "name": "Narwal Jammu (F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1250",
+    "state": "Jammu And Kashmir",
+    "district": "Kathua",
+    "sub": "Kathua Apmc",
+    "name": "Kathua Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1251",
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "sub": "Badami Apmc",
+    "name": "Badami Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1252",
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "sub": "Hungund Apmc",
+    "name": "Hungund Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1253",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "sub": "Bangalore Apmc",
+    "name": "Bangalore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1254",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "sub": "Binny Mill (F&V), Bangalore Apmc",
+    "name": "Binny Mill (F&V), Bangalore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1255",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "sub": "Channapatana Apmc",
+    "name": "Channapatana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1256",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "sub": "Hoskote Apmc",
+    "name": "Hoskote Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1257",
+    "state": "Karnataka",
+    "district": "Bangalore",
+    "sub": "Ramanagara Apmc",
+    "name": "Ramanagara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1258",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "sub": "Bailahongal Apmc",
+    "name": "Bailahongal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1259",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "sub": "Kudchi Apmc",
+    "name": "Kudchi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1260",
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "sub": "Ramdurga Apmc",
+    "name": "Ramdurga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1261",
+    "state": "Karnataka",
+    "district": "Bellary",
+    "sub": "Bellary Apmc",
+    "name": "Bellary Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1262",
+    "state": "Karnataka",
+    "district": "Bellary",
+    "sub": "Kottur Apmc",
+    "name": "Kottur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1263",
+    "state": "Karnataka",
+    "district": "Bidar",
+    "sub": "Aurad Apmc",
+    "name": "Aurad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1264",
+    "state": "Karnataka",
+    "district": "Bidar",
+    "sub": "Basava Kalayana Apmc",
+    "name": "Basava Kalayana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1265",
+    "state": "Karnataka",
+    "district": "Bidar",
+    "sub": "Bhalki Apmc",
+    "name": "Bhalki Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1266",
+    "state": "Karnataka",
+    "district": "Bidar",
+    "sub": "Bidar Apmc",
+    "name": "Bidar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1267",
+    "state": "Karnataka",
+    "district": "Bijapur",
+    "sub": "Bijapur Apmc",
+    "name": "Bijapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1268",
+    "state": "Karnataka",
+    "district": "Bijapur",
+    "sub": "Sindagi(Indi) Apmc",
+    "name": "Sindagi(Indi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1269",
+    "state": "Karnataka",
+    "district": "Bijapur",
+    "sub": "Talikot Apmc",
+    "name": "Talikot Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1270",
+    "state": "Karnataka",
+    "district": "Chamrajnagar",
+    "sub": "Chamaraj Nagar Apmc",
+    "name": "Chamaraj Nagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1271",
+    "state": "Karnataka",
+    "district": "Chamrajnagar",
+    "sub": "Gundlupet Apmc",
+    "name": "Gundlupet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1272",
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "sub": "Chikkamagalore Apmc",
+    "name": "Chikkamagalore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1273",
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "sub": "Kadur Apmc",
+    "name": "Kadur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1274",
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "sub": "Moodigere Apmc",
+    "name": "Moodigere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1275",
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "sub": "Challakere Apmc",
+    "name": "Challakere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1276",
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "sub": "Chitradurga Apmc",
+    "name": "Chitradurga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1277",
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "sub": "Holalkere Apmc",
+    "name": "Holalkere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1278",
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "sub": "Hosadurga Apmc",
+    "name": "Hosadurga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1279",
+    "state": "Karnataka",
+    "district": "Davangere",
+    "sub": "Davangere Apmc",
+    "name": "Davangere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1280",
+    "state": "Karnataka",
+    "district": "Davangere",
+    "sub": "Honnali Apmc",
+    "name": "Honnali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1281",
+    "state": "Karnataka",
+    "district": "Davangere",
+    "sub": "Jagalur Apmc",
+    "name": "Jagalur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1282",
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "sub": "Dharwar Apmc",
+    "name": "Dharwar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1283",
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "sub": "Hubli (Amaragol) Apmc",
+    "name": "Hubli (Amaragol) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1284",
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "sub": "Kalagategi Apmc",
+    "name": "Kalagategi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1285",
+    "state": "Karnataka",
+    "district": "Gadag",
+    "sub": "Gadag Apmc",
+    "name": "Gadag Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1286",
+    "state": "Karnataka",
+    "district": "Gadag",
+    "sub": "Laxmeshwar Apmc",
+    "name": "Laxmeshwar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1287",
+    "state": "Karnataka",
+    "district": "Hassan",
+    "sub": "Arasikere Apmc",
+    "name": "Arasikere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1288",
+    "state": "Karnataka",
+    "district": "Haveri",
+    "sub": "Haveri Apmc",
+    "name": "Haveri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1289",
+    "state": "Karnataka",
+    "district": "Haveri",
+    "sub": "Ranebennur Apmc",
+    "name": "Ranebennur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1290",
+    "state": "Karnataka",
+    "district": "Haveri",
+    "sub": "Savanur Apmc",
+    "name": "Savanur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1291",
+    "state": "Karnataka",
+    "district": "Kalburgi",
+    "sub": "Kalburgi Apmc",
+    "name": "Kalburgi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1292",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Haliyala Apmc",
+    "name": "Haliyala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1293",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Honnavar Apmc",
+    "name": "Honnavar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1294",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Kumta Apmc",
+    "name": "Kumta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1295",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Mundgod Apmc",
+    "name": "Mundgod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1296",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Sirsi Apmc",
+    "name": "Sirsi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1297",
+    "state": "Karnataka",
+    "district": "Karwar(Uttar Kannad)",
+    "sub": "Yellapur Apmc",
+    "name": "Yellapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1298",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Bangarpet Apmc",
+    "name": "Bangarpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1299",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Bhagepalli Apmc",
+    "name": "Bhagepalli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1300",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Chintamani Apmc",
+    "name": "Chintamani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1301",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Gowribidanoor Apmc",
+    "name": "Gowribidanoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1302",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Malur Apmc",
+    "name": "Malur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1303",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "sub": "Mulabagilu Apmc",
+    "name": "Mulabagilu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1304",
+    "state": "Karnataka",
+    "district": "Koppal",
+    "sub": "Koppal Apmc",
+    "name": "Koppal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1305",
+    "state": "Karnataka",
+    "district": "Koppal",
+    "sub": "Kustagi Apmc",
+    "name": "Kustagi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1306",
+    "state": "Karnataka",
+    "district": "Koppal",
+    "sub": "Yalburga Apmc",
+    "name": "Yalburga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1307",
+    "state": "Karnataka",
+    "district": "Madikeri(Kodagu)",
+    "sub": "Madikeri Apmc",
+    "name": "Madikeri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1308",
+    "state": "Karnataka",
+    "district": "Madikeri(Kodagu)",
+    "sub": "Somvarpet Apmc",
+    "name": "Somvarpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1309",
+    "state": "Karnataka",
+    "district": "Mandya",
+    "sub": "K.R. Pet Apmc",
+    "name": "K.R. Pet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1310",
+    "state": "Karnataka",
+    "district": "Mandya",
+    "sub": "Pandavapura Apmc",
+    "name": "Pandavapura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1311",
+    "state": "Karnataka",
+    "district": "Mandya",
+    "sub": "Srirangapattana Apmc",
+    "name": "Srirangapattana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1312",
+    "state": "Karnataka",
+    "district": "Mangalore(Dakshin Kannad)",
+    "sub": "Belthangdi Apmc",
+    "name": "Belthangdi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1313",
+    "state": "Karnataka",
+    "district": "Mangalore(Dakshin Kannad)",
+    "sub": "Sulya Apmc",
+    "name": "Sulya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1314",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "sub": "Hunsur Apmc",
+    "name": "Hunsur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1315",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "sub": "Mysore (Bandipalya) Apmc",
+    "name": "Mysore (Bandipalya) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1316",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "sub": "Nanjangud Apmc",
+    "name": "Nanjangud Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1317",
+    "state": "Karnataka",
+    "district": "Mysore",
+    "sub": "Piriya Pattana Apmc",
+    "name": "Piriya Pattana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1318",
+    "state": "Karnataka",
+    "district": "Raichur",
+    "sub": "Lingasugur Apmc",
+    "name": "Lingasugur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1319",
+    "state": "Karnataka",
+    "district": "Raichur",
+    "sub": "Raichur Apmc",
+    "name": "Raichur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1320",
+    "state": "Karnataka",
+    "district": "Raichur",
+    "sub": "Sindhanur Apmc",
+    "name": "Sindhanur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1321",
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "sub": "Sagar Apmc",
+    "name": "Sagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1322",
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "sub": "Shikaripura Apmc",
+    "name": "Shikaripura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1323",
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "sub": "Shimoga Apmc",
+    "name": "Shimoga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1324",
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "sub": "Shimoga(Theertahalli) Apmc",
+    "name": "Shimoga(Theertahalli) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1325",
+    "state": "Karnataka",
+    "district": "Tumkur",
+    "sub": "Gubbi Apmc",
+    "name": "Gubbi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1326",
+    "state": "Karnataka",
+    "district": "Tumkur",
+    "sub": "Tumkur Apmc",
+    "name": "Tumkur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1327",
+    "state": "Karnataka",
+    "district": "Tumkur",
+    "sub": "Turvekere Apmc",
+    "name": "Turvekere Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1328",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Aroor Apmc",
+    "name": "Aroor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1329",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Chengannur Apmc",
+    "name": "Chengannur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1330",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Cheriyanadu  Vfpck Apmc",
+    "name": "Cheriyanadu  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1331",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Harippad Apmc",
+    "name": "Harippad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1332",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Mannar Apmc",
+    "name": "Mannar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1333",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "sub": "Vallikunnam  Vfpck Apmc",
+    "name": "Vallikunnam  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1334",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Aluva Apmc",
+    "name": "Aluva Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1335",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Amalapuram  Vfpck Apmc",
+    "name": "Amalapuram  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1336",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Angamaly Apmc",
+    "name": "Angamaly Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1337",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Ernakulam Apmc",
+    "name": "Ernakulam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1338",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Kadungallur  Vfpck Apmc",
+    "name": "Kadungallur  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1339",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Koovapadi Vfpck Apmc",
+    "name": "Koovapadi Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1340",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Kurumassery Vfpck Apmc",
+    "name": "Kurumassery Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1341",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "North Paravur Apmc",
+    "name": "North Paravur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1342",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Perumbavoor Apmc",
+    "name": "Perumbavoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1343",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Piravam Apmc",
+    "name": "Piravam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1344",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Puthenvelikkara  Vfpck Apmc",
+    "name": "Puthenvelikkara  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1345",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Thiruvaniyoor  Vfpck Apmc",
+    "name": "Thiruvaniyoor  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1346",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Thrippunithura Apmc",
+    "name": "Thrippunithura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1347",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "sub": "Vengola  Vfpck Apmc",
+    "name": "Vengola  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1348",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Alacode  Vfpck Apmc",
+    "name": "Alacode  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1349",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Errattayar Vfpck Apmc",
+    "name": "Errattayar Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1350",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Kannakunnu Vfpck Apmc",
+    "name": "Kannakunnu Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1351",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Kanthaloor Vfpck Apmc",
+    "name": "Kanthaloor Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1352",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Kattappana Apmc",
+    "name": "Kattappana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1353",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Melechinnar Vfpck Apmc",
+    "name": "Melechinnar Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1354",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Nedumkandam Apmc",
+    "name": "Nedumkandam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1355",
+    "state": "Kerala",
+    "district": "Idukki",
+    "sub": "Thodupuzha Apmc",
+    "name": "Thodupuzha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1356",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Kannur Apmc",
+    "name": "Kannur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1357",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Kuthuparambu Apmc",
+    "name": "Kuthuparambu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1358",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Maloor Vfpck Apmc",
+    "name": "Maloor Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1359",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Payam Vfpck Apmc",
+    "name": "Payam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1360",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Payyannur Apmc",
+    "name": "Payyannur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1361",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Sreekandapuram Vfpck Apmc",
+    "name": "Sreekandapuram Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1362",
+    "state": "Kerala",
+    "district": "Kannur",
+    "sub": "Taliparamba Apmc",
+    "name": "Taliparamba Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1363",
+    "state": "Kerala",
+    "district": "Kasargod",
+    "sub": "Kanjangadu Apmc",
+    "name": "Kanjangadu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1364",
+    "state": "Kerala",
+    "district": "Kasargod",
+    "sub": "Kasargod Apmc",
+    "name": "Kasargod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1365",
+    "state": "Kerala",
+    "district": "Kasargod",
+    "sub": "Madikai  Vfpck Apmc",
+    "name": "Madikai  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1366",
+    "state": "Kerala",
+    "district": "Kasargod",
+    "sub": "Manjeswaram Apmc",
+    "name": "Manjeswaram Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1367",
+    "state": "Kerala",
+    "district": "Kasargod",
+    "sub": "Pullur Periya  Vfpck Apmc",
+    "name": "Pullur Periya  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1368",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Anchal Apmc",
+    "name": "Anchal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1369",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Anchal Vfpck Apmc",
+    "name": "Anchal Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1370",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Kadakkal  Vfpck Apmc",
+    "name": "Kadakkal  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1371",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Kollam Apmc",
+    "name": "Kollam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1372",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Kottarakkara Apmc",
+    "name": "Kottarakkara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1373",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Kulathoopuzha Vfpck Apmc",
+    "name": "Kulathoopuzha Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1374",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Sasthamkotta Apmc",
+    "name": "Sasthamkotta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1375",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Sooranad  Vfpck Apmc",
+    "name": "Sooranad  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1376",
+    "state": "Kerala",
+    "district": "Kollam",
+    "sub": "Valakom  Vfpck Apmc",
+    "name": "Valakom  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1377",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Aymanam Vfpck Apmc",
+    "name": "Aymanam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1378",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Ettumanoor Vfpck Apmc",
+    "name": "Ettumanoor Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1379",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Kottayam Apmc",
+    "name": "Kottayam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1380",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Parathode Vfpck Apmc",
+    "name": "Parathode Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1381",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Thalayolaparambu Apmc",
+    "name": "Thalayolaparambu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1382",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "sub": "Vakathanam Vfpck Apmc",
+    "name": "Vakathanam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1383",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Kakkur Vfpck Apmc",
+    "name": "Kakkur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1384",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Kallachi Apmc",
+    "name": "Kallachi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1385",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Kodenchery Vfpck Apmc",
+    "name": "Kodenchery Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1386",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Kodiyathur Vfpck Apmc",
+    "name": "Kodiyathur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1387",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Kunnamangalam  Vfpck Apmc",
+    "name": "Kunnamangalam  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1388",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Mavoor  Vfpck Apmc",
+    "name": "Mavoor  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1389",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Palayam Apmc",
+    "name": "Palayam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1390",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Perambra Apmc",
+    "name": "Perambra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1391",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Quilandy Apmc",
+    "name": "Quilandy Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1392",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Thiruvambady Vfpck Apmc",
+    "name": "Thiruvambady Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1393",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Vellannur  Vfpck Apmc",
+    "name": "Vellannur  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1394",
+    "state": "Kerala",
+    "district": "Kozhikode(Calicut)",
+    "sub": "Vengeri(Kozhikode) Apmc",
+    "name": "Vengeri(Kozhikode) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1395",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Angadippuram Vfpck Apmc",
+    "name": "Angadippuram Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1396",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Athanikkal Vfpck Apmc",
+    "name": "Athanikkal Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1397",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Elamkur  Vfpck Apmc",
+    "name": "Elamkur  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1398",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Kannamangalam  Vfpck Apmc",
+    "name": "Kannamangalam  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1399",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Manjeri Apmc",
+    "name": "Manjeri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1400",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Mankada Vfpck Apmc",
+    "name": "Mankada Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1401",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Othayi  Vfpck Apmc",
+    "name": "Othayi  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1402",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Pallikkal Vfpck Apmc",
+    "name": "Pallikkal Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1403",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Parappanangadi Apmc",
+    "name": "Parappanangadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1404",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Thirurrangadi Apmc",
+    "name": "Thirurrangadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1405",
+    "state": "Kerala",
+    "district": "Malappuram",
+    "sub": "Thiruvali  Vfpck Apmc",
+    "name": "Thiruvali  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1406",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Agali Vfpck Apmc",
+    "name": "Agali Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1407",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Alenellur  Vfpck Apmc",
+    "name": "Alenellur  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1408",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Kizhakkancheri Vfpck Apmc",
+    "name": "Kizhakkancheri Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1409",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Koduvayoor Apmc",
+    "name": "Koduvayoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1410",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Kollengode Vfpck Apmc",
+    "name": "Kollengode Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1411",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Palakkad Apmc",
+    "name": "Palakkad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1412",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Paliyamangalam  Vfpck Apmc",
+    "name": "Paliyamangalam  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1413",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Puthupariyaram  Vfpck Apmc",
+    "name": "Puthupariyaram  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1414",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Vadakarapathy Apmc",
+    "name": "Vadakarapathy Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1415",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Vaniyamkulam  Vfpck Apmc",
+    "name": "Vaniyamkulam  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1416",
+    "state": "Kerala",
+    "district": "Palakad",
+    "sub": "Vithinasserri Vfpck Apmc",
+    "name": "Vithinasserri Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1417",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Erath  Vfpck Apmc",
+    "name": "Erath  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1418",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Ezhamkulam Vfpck Apmc",
+    "name": "Ezhamkulam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1419",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Kuttoor Apmc",
+    "name": "Kuttoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1420",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Omalloor Apmc",
+    "name": "Omalloor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1421",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Pandalam Thekkekkara  Vfpck Apmc",
+    "name": "Pandalam Thekkekkara  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1422",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Pandalam Vfpck Apmc",
+    "name": "Pandalam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1423",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Parakkodu Apmc",
+    "name": "Parakkodu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1424",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Ranniangadi Apmc",
+    "name": "Ranniangadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1425",
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "sub": "Seethathode  Vfpck Apmc",
+    "name": "Seethathode  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1426",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Alengad  Vfpck Apmc",
+    "name": "Alengad  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1427",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Annamanada  Vfpck Apmc",
+    "name": "Annamanada  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1428",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Chavakkad Apmc",
+    "name": "Chavakkad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1429",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Chazhur Vfpck Apmc",
+    "name": "Chazhur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1430",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Chelakkara Apmc",
+    "name": "Chelakkara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1431",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Chelakkara Vfpck Apmc",
+    "name": "Chelakkara Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1432",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Karalam Vfpck Apmc",
+    "name": "Karalam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1433",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Karuvannur Vfpck Apmc",
+    "name": "Karuvannur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1434",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Mattathur Vfpck Apmc",
+    "name": "Mattathur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1435",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Pananchery Vfpck Apmc",
+    "name": "Pananchery Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1436",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Puthur  Vfpck Apmc",
+    "name": "Puthur  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1437",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Thottippal Vfpck Apmc",
+    "name": "Thottippal Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1438",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Thrissur Apmc",
+    "name": "Thrissur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1439",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Varandarappilly  Vfpck Apmc",
+    "name": "Varandarappilly  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1440",
+    "state": "Kerala",
+    "district": "Thirssur",
+    "sub": "Veloorkkara Vfpck Apmc",
+    "name": "Veloorkkara Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1441",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Aralamoodu Apmc",
+    "name": "Aralamoodu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1442",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Athiyannur Vfpck Apmc",
+    "name": "Athiyannur Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1443",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Chala Apmc",
+    "name": "Chala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1444",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Kovilnada  Vfpck Apmc",
+    "name": "Kovilnada  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1445",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Mudakkal Vfpck Apmc",
+    "name": "Mudakkal Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1446",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Parassala Apmc",
+    "name": "Parassala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1447",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Vellarada  Vfpck Apmc",
+    "name": "Vellarada  Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1448",
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "sub": "Vembayam Vfpck Apmc",
+    "name": "Vembayam Vfpck Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1449",
+    "state": "Kerala",
+    "district": "Wayanad",
+    "sub": "Manathavady Apmc",
+    "name": "Manathavady Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1450",
+    "state": "Kerala",
+    "district": "Wayanad",
+    "sub": "Pulpally Apmc",
+    "name": "Pulpally Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1451",
+    "state": "Madhya Pradesh",
+    "district": "Alirajpur",
+    "sub": "Alirajpur Apmc",
+    "name": "Alirajpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1452",
+    "state": "Madhya Pradesh",
+    "district": "Alirajpur",
+    "sub": "Jobat Apmc",
+    "name": "Jobat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1453",
+    "state": "Madhya Pradesh",
+    "district": "Anupur",
+    "sub": "Anuppur Apmc",
+    "name": "Anuppur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1454",
+    "state": "Madhya Pradesh",
+    "district": "Anupur",
+    "sub": "Kotma Apmc",
+    "name": "Kotma Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1455",
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "sub": "Ashoknagar Apmc",
+    "name": "Ashoknagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1456",
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "sub": "Chanderi Apmc",
+    "name": "Chanderi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1457",
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "sub": "Isagarh Apmc",
+    "name": "Isagarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1458",
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "sub": "Mungawali Apmc",
+    "name": "Mungawali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1459",
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "sub": "Shadora Apmc",
+    "name": "Shadora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1460",
+    "state": "Madhya Pradesh",
+    "district": "Badwani",
+    "sub": "Anjad Apmc",
+    "name": "Anjad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1461",
+    "state": "Madhya Pradesh",
+    "district": "Badwani",
+    "sub": "Badwani Apmc",
+    "name": "Badwani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1462",
+    "state": "Madhya Pradesh",
+    "district": "Badwani",
+    "sub": "Balwadi Apmc",
+    "name": "Balwadi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1463",
+    "state": "Madhya Pradesh",
+    "district": "Badwani",
+    "sub": "Khetia Apmc",
+    "name": "Khetia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1464",
+    "state": "Madhya Pradesh",
+    "district": "Badwani",
+    "sub": "Sendhwa Apmc",
+    "name": "Sendhwa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1465",
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "sub": "Katangi Apmc",
+    "name": "Katangi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1466",
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "sub": "Khairlangi Apmc",
+    "name": "Khairlangi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1467",
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "sub": "Lalbarra Apmc",
+    "name": "Lalbarra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1468",
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "sub": "Mohgaon Apmc",
+    "name": "Mohgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1469",
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "sub": "Varaseoni Apmc",
+    "name": "Varaseoni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1470",
+    "state": "Madhya Pradesh",
+    "district": "Betul",
+    "sub": "Betul Apmc",
+    "name": "Betul Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1471",
+    "state": "Madhya Pradesh",
+    "district": "Betul",
+    "sub": "Bhensdehi Apmc",
+    "name": "Bhensdehi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1472",
+    "state": "Madhya Pradesh",
+    "district": "Betul",
+    "sub": "Multai Apmc",
+    "name": "Multai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1473",
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "sub": "Alampur Apmc",
+    "name": "Alampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1474",
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "sub": "Bhind Apmc",
+    "name": "Bhind Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1475",
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "sub": "Gohad Apmc",
+    "name": "Gohad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1476",
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "sub": "Lahar Apmc",
+    "name": "Lahar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1477",
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "sub": "Mehgaon Apmc",
+    "name": "Mehgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1478",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "sub": "Berasia Apmc",
+    "name": "Berasia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1479",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "sub": "Bhopal Apmc",
+    "name": "Bhopal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1480",
+    "state": "Madhya Pradesh",
+    "district": "Burhanpur",
+    "sub": "Burhanpur Apmc",
+    "name": "Burhanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1481",
+    "state": "Madhya Pradesh",
+    "district": "Burhanpur",
+    "sub": "Burhanpur(F&V) Apmc",
+    "name": "Burhanpur(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1482",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Badamalhera Apmc",
+    "name": "Badamalhera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1483",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Bakswaha Apmc",
+    "name": "Bakswaha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1484",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Bijawar Apmc",
+    "name": "Bijawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1485",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Chattarpur(F&V) Apmc",
+    "name": "Chattarpur(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1486",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Chhatarpur Apmc",
+    "name": "Chhatarpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1487",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Lavkush Nagar(Laundi) Apmc",
+    "name": "Lavkush Nagar(Laundi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1488",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Naugaon Apmc",
+    "name": "Naugaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1489",
+    "state": "Madhya Pradesh",
+    "district": "Chhatarpur",
+    "sub": "Rajnagar Apmc",
+    "name": "Rajnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1490",
+    "state": "Madhya Pradesh",
+    "district": "Chhindwara",
+    "sub": "Amarwda Apmc",
+    "name": "Amarwda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1491",
+    "state": "Madhya Pradesh",
+    "district": "Chhindwara",
+    "sub": "Chaurai Apmc",
+    "name": "Chaurai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1492",
+    "state": "Madhya Pradesh",
+    "district": "Chhindwara",
+    "sub": "Chhindwara Apmc",
+    "name": "Chhindwara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1493",
+    "state": "Madhya Pradesh",
+    "district": "Chhindwara",
+    "sub": "Pandhurna Apmc",
+    "name": "Pandhurna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1494",
+    "state": "Madhya Pradesh",
+    "district": "Chhindwara",
+    "sub": "Saunsar Apmc",
+    "name": "Saunsar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1495",
+    "state": "Madhya Pradesh",
+    "district": "Damoh",
+    "sub": "Damoh Apmc",
+    "name": "Damoh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1496",
+    "state": "Madhya Pradesh",
+    "district": "Damoh",
+    "sub": "Hata Apmc",
+    "name": "Hata Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1497",
+    "state": "Madhya Pradesh",
+    "district": "Damoh",
+    "sub": "Javera Apmc",
+    "name": "Javera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1498",
+    "state": "Madhya Pradesh",
+    "district": "Damoh",
+    "sub": "Patharia Apmc",
+    "name": "Patharia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1499",
+    "state": "Madhya Pradesh",
+    "district": "Datia",
+    "sub": "Datia Apmc",
+    "name": "Datia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1500",
+    "state": "Madhya Pradesh",
+    "district": "Datia",
+    "sub": "Sevda Apmc",
+    "name": "Sevda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1501",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Bagli Apmc",
+    "name": "Bagli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1502",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Dewas Apmc",
+    "name": "Dewas Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1503",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Dewas(F&V) Apmc",
+    "name": "Dewas(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1504",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Haatpipliya Apmc",
+    "name": "Haatpipliya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1505",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Kannod Apmc",
+    "name": "Kannod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1506",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Loharda Apmc",
+    "name": "Loharda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1507",
+    "state": "Madhya Pradesh",
+    "district": "Dewas",
+    "sub": "Sonkatch Apmc",
+    "name": "Sonkatch Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1508",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Badnawar Apmc",
+    "name": "Badnawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1509",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Dhamnod Apmc",
+    "name": "Dhamnod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1510",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Dhar Apmc",
+    "name": "Dhar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1511",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Gandhwani Apmc",
+    "name": "Gandhwani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1512",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Kukshi Apmc",
+    "name": "Kukshi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1513",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Kukshi(F&V) Apmc",
+    "name": "Kukshi(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1514",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Manawar Apmc",
+    "name": "Manawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1515",
+    "state": "Madhya Pradesh",
+    "district": "Dhar",
+    "sub": "Rajgarh Apmc",
+    "name": "Rajgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1516",
+    "state": "Madhya Pradesh",
+    "district": "Dindori",
+    "sub": "Dindori Apmc",
+    "name": "Dindori Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1517",
+    "state": "Madhya Pradesh",
+    "district": "Dindori",
+    "sub": "Gorakhpur Apmc",
+    "name": "Gorakhpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1518",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Aron Apmc",
+    "name": "Aron Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1519",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Binaganj Apmc",
+    "name": "Binaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1520",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Guna Apmc",
+    "name": "Guna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1521",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Kumbhraj Apmc",
+    "name": "Kumbhraj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1522",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Maksudangarh Apmc",
+    "name": "Maksudangarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1523",
+    "state": "Madhya Pradesh",
+    "district": "Guna",
+    "sub": "Raghogarh Apmc",
+    "name": "Raghogarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1524",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "sub": "Bhitarwar Apmc",
+    "name": "Bhitarwar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1525",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "sub": "Dabra Apmc",
+    "name": "Dabra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1526",
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "sub": "Lashkar Apmc",
+    "name": "Lashkar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1527",
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "sub": "Harda Apmc",
+    "name": "Harda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1528",
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "sub": "Khirakiya Apmc",
+    "name": "Khirakiya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1529",
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "sub": "Sirali Apmc",
+    "name": "Sirali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1530",
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "sub": "Sirali(F&V) Apmc",
+    "name": "Sirali(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1531",
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "sub": "Timarni Apmc",
+    "name": "Timarni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1532",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Banapura Apmc",
+    "name": "Banapura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1533",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Bankhedi Apmc",
+    "name": "Bankhedi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1534",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Hoshangabad Apmc",
+    "name": "Hoshangabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1535",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Itarsi Apmc",
+    "name": "Itarsi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1536",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Pipariya Apmc",
+    "name": "Pipariya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1537",
+    "state": "Madhya Pradesh",
+    "district": "Hoshangabad",
+    "sub": "Semriharchand Apmc",
+    "name": "Semriharchand Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1538",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "sub": "Gautampura Apmc",
+    "name": "Gautampura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1539",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "sub": "Indore Apmc",
+    "name": "Indore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1540",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "sub": "Mhow Apmc",
+    "name": "Mhow Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1541",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "sub": "Sanwer Apmc",
+    "name": "Sanwer Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1542",
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "sub": "Sanwer(F&V) Apmc",
+    "name": "Sanwer(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1543",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "sub": "Jabalpur Apmc",
+    "name": "Jabalpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1544",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "sub": "Paatan Apmc",
+    "name": "Paatan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1545",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "sub": "Sehora Apmc",
+    "name": "Sehora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1546",
+    "state": "Madhya Pradesh",
+    "district": "Jabalpur",
+    "sub": "Shahpura(Jabalpur) Apmc",
+    "name": "Shahpura(Jabalpur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1547",
+    "state": "Madhya Pradesh",
+    "district": "Jhabua",
+    "sub": "Jhabua Apmc",
+    "name": "Jhabua Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1548",
+    "state": "Madhya Pradesh",
+    "district": "Jhabua",
+    "sub": "Petlawad Apmc",
+    "name": "Petlawad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1549",
+    "state": "Madhya Pradesh",
+    "district": "Jhabua",
+    "sub": "Thandla Apmc",
+    "name": "Thandla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1550",
+    "state": "Madhya Pradesh",
+    "district": "Katni",
+    "sub": "Katni Apmc",
+    "name": "Katni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1551",
+    "state": "Madhya Pradesh",
+    "district": "Khandwa",
+    "sub": "Harsood Apmc",
+    "name": "Harsood Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1552",
+    "state": "Madhya Pradesh",
+    "district": "Khandwa",
+    "sub": "Khandwa Apmc",
+    "name": "Khandwa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1553",
+    "state": "Madhya Pradesh",
+    "district": "Khandwa",
+    "sub": "Khandwa(F&V) Apmc",
+    "name": "Khandwa(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1554",
+    "state": "Madhya Pradesh",
+    "district": "Khandwa",
+    "sub": "Mundi Apmc",
+    "name": "Mundi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1555",
+    "state": "Madhya Pradesh",
+    "district": "Khandwa",
+    "sub": "Pandhana Apmc",
+    "name": "Pandhana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1556",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Badwaha Apmc",
+    "name": "Badwaha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1557",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Bhikangaon Apmc",
+    "name": "Bhikangaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1558",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Karhi Apmc",
+    "name": "Karhi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1559",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Kasrawad Apmc",
+    "name": "Kasrawad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1560",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Khargone Apmc",
+    "name": "Khargone Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1561",
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "sub": "Segaon Apmc",
+    "name": "Segaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1562",
+    "state": "Madhya Pradesh",
+    "district": "Mandla",
+    "sub": "Bichhiya Apmc",
+    "name": "Bichhiya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1563",
+    "state": "Madhya Pradesh",
+    "district": "Mandla",
+    "sub": "Mandla Apmc",
+    "name": "Mandla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1564",
+    "state": "Madhya Pradesh",
+    "district": "Mandla",
+    "sub": "Nainpur Apmc",
+    "name": "Nainpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1565",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Bhanpura Apmc",
+    "name": "Bhanpura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1566",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Daloda Apmc",
+    "name": "Daloda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1567",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Garoth Apmc",
+    "name": "Garoth Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1568",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Mandsaur Apmc",
+    "name": "Mandsaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1569",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Piplya Apmc",
+    "name": "Piplya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1570",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Shamgarh Apmc",
+    "name": "Shamgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1571",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Sitmau Apmc",
+    "name": "Sitmau Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1572",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "sub": "Suvasra Apmc",
+    "name": "Suvasra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1573",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Ambaha Apmc",
+    "name": "Ambaha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1574",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Jora Apmc",
+    "name": "Jora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1575",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Kailaras Apmc",
+    "name": "Kailaras Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1576",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Morena Apmc",
+    "name": "Morena Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1577",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Morena(F&V) Apmc",
+    "name": "Morena(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1578",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Porsa Apmc",
+    "name": "Porsa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1579",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Sabalgarh Apmc",
+    "name": "Sabalgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1580",
+    "state": "Madhya Pradesh",
+    "district": "Morena",
+    "sub": "Sabalgarh(F&V) Apmc",
+    "name": "Sabalgarh(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1581",
+    "state": "Madhya Pradesh",
+    "district": "Narsinghpur",
+    "sub": "Gadarwada Apmc",
+    "name": "Gadarwada Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1582",
+    "state": "Madhya Pradesh",
+    "district": "Narsinghpur",
+    "sub": "Gotegaon Apmc",
+    "name": "Gotegaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1583",
+    "state": "Madhya Pradesh",
+    "district": "Narsinghpur",
+    "sub": "Kareli Apmc",
+    "name": "Kareli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1584",
+    "state": "Madhya Pradesh",
+    "district": "Narsinghpur",
+    "sub": "Narsinghpur Apmc",
+    "name": "Narsinghpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1585",
+    "state": "Madhya Pradesh",
+    "district": "Narsinghpur",
+    "sub": "Tendukheda Apmc",
+    "name": "Tendukheda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1586",
+    "state": "Madhya Pradesh",
+    "district": "Neemuch",
+    "sub": "Javad Apmc",
+    "name": "Javad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1587",
+    "state": "Madhya Pradesh",
+    "district": "Neemuch",
+    "sub": "Manasa Apmc",
+    "name": "Manasa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1588",
+    "state": "Madhya Pradesh",
+    "district": "Neemuch",
+    "sub": "Neemuch Apmc",
+    "name": "Neemuch Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1589",
+    "state": "Madhya Pradesh",
+    "district": "Panna",
+    "sub": "Ajaygarh Apmc",
+    "name": "Ajaygarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1590",
+    "state": "Madhya Pradesh",
+    "district": "Panna",
+    "sub": "Devandranagar Apmc",
+    "name": "Devandranagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1591",
+    "state": "Madhya Pradesh",
+    "district": "Panna",
+    "sub": "Panna Apmc",
+    "name": "Panna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1592",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Bareli Apmc",
+    "name": "Bareli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1593",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Begamganj Apmc",
+    "name": "Begamganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1594",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Gairatganj Apmc",
+    "name": "Gairatganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1595",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Obedullaganj Apmc",
+    "name": "Obedullaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1596",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Raisen Apmc",
+    "name": "Raisen Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1597",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Silvani Apmc",
+    "name": "Silvani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1598",
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "sub": "Udaipura Apmc",
+    "name": "Udaipura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1599",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Biaora Apmc",
+    "name": "Biaora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1600",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Chhapiheda Apmc",
+    "name": "Chhapiheda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1601",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Jeerapur Apmc",
+    "name": "Jeerapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1602",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Khilchipur Apmc",
+    "name": "Khilchipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1603",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Khujner Apmc",
+    "name": "Khujner Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1604",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Kurawar Apmc",
+    "name": "Kurawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1605",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Narsinghgarh Apmc",
+    "name": "Narsinghgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1606",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Pachaur Apmc",
+    "name": "Pachaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1607",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Sarangpur Apmc",
+    "name": "Sarangpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1608",
+    "state": "Madhya Pradesh",
+    "district": "Rajgarh",
+    "sub": "Suthalia Apmc",
+    "name": "Suthalia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1609",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "A Lot Apmc",
+    "name": "A Lot Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1610",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "Jaora Apmc",
+    "name": "Jaora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1611",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "Jawra(F&V) Apmc",
+    "name": "Jawra(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1612",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "Ratlam Apmc",
+    "name": "Ratlam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1613",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "Sailana Apmc",
+    "name": "Sailana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1614",
+    "state": "Madhya Pradesh",
+    "district": "Ratlam",
+    "sub": "Taal Apmc",
+    "name": "Taal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1615",
+    "state": "Madhya Pradesh",
+    "district": "Rewa",
+    "sub": "Baikunthpur Apmc",
+    "name": "Baikunthpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1616",
+    "state": "Madhya Pradesh",
+    "district": "Rewa",
+    "sub": "Chaakghat Apmc",
+    "name": "Chaakghat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1617",
+    "state": "Madhya Pradesh",
+    "district": "Rewa",
+    "sub": "Rewa Apmc",
+    "name": "Rewa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1618",
+    "state": "Madhya Pradesh",
+    "district": "Rewa",
+    "sub": "Rewa(F&V) Apmc",
+    "name": "Rewa(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1619",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Bamora Apmc",
+    "name": "Bamora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1620",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Banda Apmc",
+    "name": "Banda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1621",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Bina Apmc",
+    "name": "Bina Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1622",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Deori Apmc",
+    "name": "Deori Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1623",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Garhakota Apmc",
+    "name": "Garhakota Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1624",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Jaisinagar Apmc",
+    "name": "Jaisinagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1625",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Kesli Apmc",
+    "name": "Kesli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1626",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Khurai Apmc",
+    "name": "Khurai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1627",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Malthone Apmc",
+    "name": "Malthone Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1628",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Rahatgarh Apmc",
+    "name": "Rahatgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1629",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Rehli Apmc",
+    "name": "Rehli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1630",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Sagar Apmc",
+    "name": "Sagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1631",
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "sub": "Shahagarh Apmc",
+    "name": "Shahagarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1632",
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "sub": "Amarpatan Apmc",
+    "name": "Amarpatan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1633",
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "sub": "Maihar(F&V) Apmc",
+    "name": "Maihar(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1634",
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "sub": "Mehar Apmc",
+    "name": "Mehar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1635",
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "sub": "Nagod Apmc",
+    "name": "Nagod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1636",
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "sub": "Satna Apmc",
+    "name": "Satna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1637",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Ashta Apmc",
+    "name": "Ashta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1638",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Baktara Apmc",
+    "name": "Baktara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1639",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Ichhawar Apmc",
+    "name": "Ichhawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1640",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Jawar Apmc",
+    "name": "Jawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1641",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Nasrullaganj Apmc",
+    "name": "Nasrullaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1642",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Rehati Apmc",
+    "name": "Rehati Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1643",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Sehore Apmc",
+    "name": "Sehore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1644",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Sehore(F&V) Apmc",
+    "name": "Sehore(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1645",
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "sub": "Shyampur Apmc",
+    "name": "Shyampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1646",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Chhpara Apmc",
+    "name": "Chhpara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1647",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Ghansour Apmc",
+    "name": "Ghansour Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1648",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Keolari Apmc",
+    "name": "Keolari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1649",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Lakhnadon Apmc",
+    "name": "Lakhnadon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1650",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Palari Apmc",
+    "name": "Palari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1651",
+    "state": "Madhya Pradesh",
+    "district": "Seoni",
+    "sub": "Seoni Apmc",
+    "name": "Seoni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1652",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Agar Apmc",
+    "name": "Agar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1653",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Badod Apmc",
+    "name": "Badod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1654",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Kalapipal Apmc",
+    "name": "Kalapipal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1655",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Momanbadodiya Apmc",
+    "name": "Momanbadodiya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1656",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Nalkehda Apmc",
+    "name": "Nalkehda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1657",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Shajapur Apmc",
+    "name": "Shajapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1658",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Shujalpur Apmc",
+    "name": "Shujalpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1659",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Soyatkalan Apmc",
+    "name": "Soyatkalan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1660",
+    "state": "Madhya Pradesh",
+    "district": "Shajapur",
+    "sub": "Susner Apmc",
+    "name": "Susner Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1661",
+    "state": "Madhya Pradesh",
+    "district": "Shehdol",
+    "sub": "Beohari Apmc",
+    "name": "Beohari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1662",
+    "state": "Madhya Pradesh",
+    "district": "Sheopur",
+    "sub": "Sheopurbadod Apmc",
+    "name": "Sheopurbadod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1663",
+    "state": "Madhya Pradesh",
+    "district": "Sheopur",
+    "sub": "Sheopurkalan Apmc",
+    "name": "Sheopurkalan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1664",
+    "state": "Madhya Pradesh",
+    "district": "Sheopur",
+    "sub": "Sheopurkalan(F&V) Apmc",
+    "name": "Sheopurkalan(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1665",
+    "state": "Madhya Pradesh",
+    "district": "Sheopur",
+    "sub": "Vijaypur Apmc",
+    "name": "Vijaypur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1666",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Badarwas Apmc",
+    "name": "Badarwas Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1667",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Barad Apmc",
+    "name": "Barad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1668",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Karera Apmc",
+    "name": "Karera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1669",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Karera(F&V) Apmc",
+    "name": "Karera(F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1670",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Khanyadhana Apmc",
+    "name": "Khanyadhana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1671",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Khatora Apmc",
+    "name": "Khatora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1672",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Kolaras Apmc",
+    "name": "Kolaras Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1673",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Magroni Apmc",
+    "name": "Magroni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1674",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Pichhour Apmc",
+    "name": "Pichhour Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1675",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Pohari Apmc",
+    "name": "Pohari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1676",
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "sub": "Shivpuri Apmc",
+    "name": "Shivpuri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1677",
+    "state": "Madhya Pradesh",
+    "district": "Singroli",
+    "sub": "Singroli Apmc",
+    "name": "Singroli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1678",
+    "state": "Madhya Pradesh",
+    "district": "Tikamgarh",
+    "sub": "Jatara Apmc",
+    "name": "Jatara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1679",
+    "state": "Madhya Pradesh",
+    "district": "Tikamgarh",
+    "sub": "Khargapur Apmc",
+    "name": "Khargapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1680",
+    "state": "Madhya Pradesh",
+    "district": "Tikamgarh",
+    "sub": "Tikamgarh Apmc",
+    "name": "Tikamgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1681",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Badnagar Apmc",
+    "name": "Badnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1682",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Khachrod Apmc",
+    "name": "Khachrod Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1683",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Mahidpur Apmc",
+    "name": "Mahidpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1684",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Nagda Apmc",
+    "name": "Nagda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1685",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Tarana Apmc",
+    "name": "Tarana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1686",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Ujjain Apmc",
+    "name": "Ujjain Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1687",
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "sub": "Unhel Apmc",
+    "name": "Unhel Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1688",
+    "state": "Madhya Pradesh",
+    "district": "Umariya",
+    "sub": "Umariya Apmc",
+    "name": "Umariya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1689",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Ganjbasoda Apmc",
+    "name": "Ganjbasoda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1690",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Gulabganj Apmc",
+    "name": "Gulabganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1691",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Kurwai Apmc",
+    "name": "Kurwai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1692",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Lateri Apmc",
+    "name": "Lateri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1693",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Shamshabad Apmc",
+    "name": "Shamshabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1694",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Sironj Apmc",
+    "name": "Sironj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1695",
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "sub": "Vidisha Apmc",
+    "name": "Vidisha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1696",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Ahmednagar Apmc",
+    "name": "Ahmednagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1697",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Jamkhed Apmc",
+    "name": "Jamkhed Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1698",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Kopargaon Apmc",
+    "name": "Kopargaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1699",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Newasa(Ghodegaon) Apmc",
+    "name": "Newasa(Ghodegaon) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1700",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Om Chaitanya Multistate Agro Purpose Coop Society  Apmc",
+    "name": "Om Chaitanya Multistate Agro Purpose Coop Society  Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1701",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Rahuri Apmc",
+    "name": "Rahuri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1702",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Rahuri(Vambori) Apmc",
+    "name": "Rahuri(Vambori) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1703",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Shevgaon Apmc",
+    "name": "Shevgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1704",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Shevgaon(Bodhegaon) Apmc",
+    "name": "Shevgaon(Bodhegaon) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1705",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "sub": "Shrirampur Apmc",
+    "name": "Shrirampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1706",
+    "state": "Maharashtra",
+    "district": "Akola",
+    "sub": "Akola Apmc",
+    "name": "Akola Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1707",
+    "state": "Maharashtra",
+    "district": "Akola",
+    "sub": "Murtizapur Apmc",
+    "name": "Murtizapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1708",
+    "state": "Maharashtra",
+    "district": "Amarawati",
+    "sub": "Achalpur Apmc",
+    "name": "Achalpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1709",
+    "state": "Maharashtra",
+    "district": "Amarawati",
+    "sub": "Amarawati Apmc",
+    "name": "Amarawati Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1710",
+    "state": "Maharashtra",
+    "district": "Amarawati",
+    "sub": "Amrawati(Frui & Veg. Market) Apmc",
+    "name": "Amrawati(Frui & Veg. Market) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1711",
+    "state": "Maharashtra",
+    "district": "Amarawati",
+    "sub": "Chandur Railway Apmc",
+    "name": "Chandur Railway Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1712",
+    "state": "Maharashtra",
+    "district": "Beed",
+    "sub": "Beed Apmc",
+    "name": "Beed Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1713",
+    "state": "Maharashtra",
+    "district": "Beed",
+    "sub": "Gevrai Apmc",
+    "name": "Gevrai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1714",
+    "state": "Maharashtra",
+    "district": "Beed",
+    "sub": "Majalgaon Apmc",
+    "name": "Majalgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1715",
+    "state": "Maharashtra",
+    "district": "Bhandara",
+    "sub": "Bhandara Apmc",
+    "name": "Bhandara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1716",
+    "state": "Maharashtra",
+    "district": "Buldhana",
+    "sub": "Bsk Krishi Bazar Private Ltd Apmc",
+    "name": "Bsk Krishi Bazar Private Ltd Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1717",
+    "state": "Maharashtra",
+    "district": "Buldhana",
+    "sub": "Deoulgaon Raja Apmc",
+    "name": "Deoulgaon Raja Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1718",
+    "state": "Maharashtra",
+    "district": "Buldhana",
+    "sub": "Lonar Apmc",
+    "name": "Lonar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1719",
+    "state": "Maharashtra",
+    "district": "Buldhana",
+    "sub": "Nandura Apmc",
+    "name": "Nandura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1720",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Bhadrawati Apmc",
+    "name": "Bhadrawati Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1721",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Brahmpuri Apmc",
+    "name": "Brahmpuri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1722",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Chandrapur Apmc",
+    "name": "Chandrapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1723",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Chandrapur(Ganjwad) Apmc",
+    "name": "Chandrapur(Ganjwad) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1724",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Mul Apmc",
+    "name": "Mul Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1725",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Pombhurni Apmc",
+    "name": "Pombhurni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1726",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "sub": "Rajura Apmc",
+    "name": "Rajura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1727",
+    "state": "Maharashtra",
+    "district": "Chattrapati Sambhajinagar",
+    "sub": "Chattrapati Sambhajinagar Apmc",
+    "name": "Chattrapati Sambhajinagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1728",
+    "state": "Maharashtra",
+    "district": "Dharashiv(Usmanabad)",
+    "sub": "Murum Apmc",
+    "name": "Murum Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1729",
+    "state": "Maharashtra",
+    "district": "Dharashiv(Usmanabad)",
+    "sub": "Paranda Apmc",
+    "name": "Paranda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1730",
+    "state": "Maharashtra",
+    "district": "Dharashiv(Usmanabad)",
+    "sub": "Tuljapur Apmc",
+    "name": "Tuljapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1731",
+    "state": "Maharashtra",
+    "district": "Gadchiroli",
+    "sub": "Armori Apmc",
+    "name": "Armori Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1732",
+    "state": "Maharashtra",
+    "district": "Gadchiroli",
+    "sub": "Armori(Desaiganj) Apmc",
+    "name": "Armori(Desaiganj) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1733",
+    "state": "Maharashtra",
+    "district": "Gadchiroli",
+    "sub": "Gadchiroli Apmc",
+    "name": "Gadchiroli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1734",
+    "state": "Maharashtra",
+    "district": "Gondiya",
+    "sub": "Gondiya Apmc",
+    "name": "Gondiya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1735",
+    "state": "Maharashtra",
+    "district": "Gondiya",
+    "sub": "Tiroda Apmc",
+    "name": "Tiroda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1736",
+    "state": "Maharashtra",
+    "district": "Hingoli",
+    "sub": "Gajanan Krushi Utpanna Bazar (India) Pvt Ltd  Apmc",
+    "name": "Gajanan Krushi Utpanna Bazar (India) Pvt Ltd  Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1737",
+    "state": "Maharashtra",
+    "district": "Hingoli",
+    "sub": "Hingoli Apmc",
+    "name": "Hingoli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1738",
+    "state": "Maharashtra",
+    "district": "Hingoli",
+    "sub": "Sengoan Apmc",
+    "name": "Sengoan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1739",
+    "state": "Maharashtra",
+    "district": "Jalana",
+    "sub": "Jalana Apmc",
+    "name": "Jalana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1740",
+    "state": "Maharashtra",
+    "district": "Jalana",
+    "sub": "Partur Apmc",
+    "name": "Partur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1741",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "sub": "Chalisgaon Apmc",
+    "name": "Chalisgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1742",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "sub": "Jalgaon Apmc",
+    "name": "Jalgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1743",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "sub": "Jalgaon(Masawat) Apmc",
+    "name": "Jalgaon(Masawat) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1744",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "sub": "Pachora Apmc",
+    "name": "Pachora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1745",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "sub": "Pachora(Bhadgaon) Apmc",
+    "name": "Pachora(Bhadgaon) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1746",
+    "state": "Maharashtra",
+    "district": "Kolhapur",
+    "sub": "Kolhapur Apmc",
+    "name": "Kolhapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1747",
+    "state": "Maharashtra",
+    "district": "Latur",
+    "sub": "Ahmedpur Apmc",
+    "name": "Ahmedpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1748",
+    "state": "Maharashtra",
+    "district": "Latur",
+    "sub": "Aurad Shahajani Apmc",
+    "name": "Aurad Shahajani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1749",
+    "state": "Maharashtra",
+    "district": "Latur",
+    "sub": "Latur Apmc",
+    "name": "Latur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1750",
+    "state": "Maharashtra",
+    "district": "Latur",
+    "sub": "Latur(Murud) Apmc",
+    "name": "Latur(Murud) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1751",
+    "state": "Maharashtra",
+    "district": "Latur",
+    "sub": "Nilanga Apmc",
+    "name": "Nilanga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1752",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "sub": "Mumbai Apmc",
+    "name": "Mumbai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1753",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "sub": "Mumbai- Fruit Market Apmc",
+    "name": "Mumbai- Fruit Market Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1754",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Hingna Apmc",
+    "name": "Hingna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1755",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Kamthi Apmc",
+    "name": "Kamthi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1756",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Katol Apmc",
+    "name": "Katol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1757",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Nagpur Apmc",
+    "name": "Nagpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1758",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Narkhed Apmc",
+    "name": "Narkhed Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1759",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "sub": "Umared Apmc",
+    "name": "Umared Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1760",
+    "state": "Maharashtra",
+    "district": "Nanded",
+    "sub": "Loha Apmc",
+    "name": "Loha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1761",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Chandvad Apmc",
+    "name": "Chandvad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1762",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Kalvan Apmc",
+    "name": "Kalvan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1763",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Lasalgaon Apmc",
+    "name": "Lasalgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1764",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Lasalgaon(Niphad) Apmc",
+    "name": "Lasalgaon(Niphad) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1765",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Lasalgaon(Vinchur) Apmc",
+    "name": "Lasalgaon(Vinchur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1766",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Malegaon Apmc",
+    "name": "Malegaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1767",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Manmad Apmc",
+    "name": "Manmad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1768",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Nasik Apmc",
+    "name": "Nasik Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1769",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Satana Apmc",
+    "name": "Satana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1770",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Shivsiddha Govind Producer Company Limited Sanchal Apmc",
+    "name": "Shivsiddha Govind Producer Company Limited Sanchal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1771",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "sub": "Sinner Apmc",
+    "name": "Sinner Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1772",
+    "state": "Maharashtra",
+    "district": "Parbhani",
+    "sub": "Gangakhed Apmc",
+    "name": "Gangakhed Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1773",
+    "state": "Maharashtra",
+    "district": "Parbhani",
+    "sub": "Jintur Apmc",
+    "name": "Jintur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1774",
+    "state": "Maharashtra",
+    "district": "Parbhani",
+    "sub": "Palam Apmc",
+    "name": "Palam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1775",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "sub": "Junnar(Otur) Apmc",
+    "name": "Junnar(Otur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1776",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "sub": "Pune Apmc",
+    "name": "Pune Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1777",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "sub": "Pune(Manjri) Apmc",
+    "name": "Pune(Manjri) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1778",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "sub": "Pune(Moshi) Apmc",
+    "name": "Pune(Moshi) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1779",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "sub": "Pune(Pimpri) Apmc",
+    "name": "Pune(Pimpri) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1780",
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "sub": "Alibagh Apmc",
+    "name": "Alibagh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1781",
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "sub": "Mangaon Apmc",
+    "name": "Mangaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1782",
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "sub": "Murud Apmc",
+    "name": "Murud Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1783",
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "sub": "Panvel Apmc",
+    "name": "Panvel Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1784",
+    "state": "Maharashtra",
+    "district": "Ratnagiri",
+    "sub": "Ratnagiri (Nachane) Apmc",
+    "name": "Ratnagiri (Nachane) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1785",
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "sub": "Sangli Apmc",
+    "name": "Sangli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1786",
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "sub": "Sangli(Phale, Bhajipura Market) Apmc",
+    "name": "Sangli(Phale, Bhajipura Market) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1787",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "sub": "Karad Apmc",
+    "name": "Karad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1788",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "sub": "Patan Apmc",
+    "name": "Patan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1789",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "sub": "Satara Apmc",
+    "name": "Satara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1790",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "sub": "Vaduj Apmc",
+    "name": "Vaduj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1791",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "sub": "Vai Apmc",
+    "name": "Vai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1792",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Akluj Apmc",
+    "name": "Akluj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1793",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Dudhani Apmc",
+    "name": "Dudhani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1794",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Karmala Apmc",
+    "name": "Karmala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1795",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Mangal Wedha Apmc",
+    "name": "Mangal Wedha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1796",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Pandharpur Apmc",
+    "name": "Pandharpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1797",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Sangola Apmc",
+    "name": "Sangola Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1798",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "sub": "Solapur Apmc",
+    "name": "Solapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1799",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "sub": "Palghar Apmc",
+    "name": "Palghar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1800",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "sub": "Vasai Apmc",
+    "name": "Vasai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1801",
+    "state": "Maharashtra",
+    "district": "Vashim",
+    "sub": "Karanja Apmc",
+    "name": "Karanja Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1802",
+    "state": "Maharashtra",
+    "district": "Vashim",
+    "sub": "Krushna Krishi Bazar  Apmc",
+    "name": "Krushna Krishi Bazar  Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1803",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Arvi Apmc",
+    "name": "Arvi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1804",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Ashti Apmc",
+    "name": "Ashti Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1805",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Hinganghat Apmc",
+    "name": "Hinganghat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1806",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Pulgaon Apmc",
+    "name": "Pulgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1807",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Sindi(Selu) Apmc",
+    "name": "Sindi(Selu) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1808",
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "sub": "Wardha Apmc",
+    "name": "Wardha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1809",
+    "state": "Maharashtra",
+    "district": "Yavatmal",
+    "sub": "Babhulgaon Apmc",
+    "name": "Babhulgaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1810",
+    "state": "Maharashtra",
+    "district": "Yavatmal",
+    "sub": "Mahesh Krushi Utpanna Bazar, Digras Apmc",
+    "name": "Mahesh Krushi Utpanna Bazar, Digras Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1811",
+    "state": "Maharashtra",
+    "district": "Yavatmal",
+    "sub": "Umarkhed Apmc",
+    "name": "Umarkhed Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1812",
+    "state": "Maharashtra",
+    "district": "Yavatmal",
+    "sub": "Vani Apmc",
+    "name": "Vani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1813",
+    "state": "Manipur",
+    "district": "Imphal East",
+    "sub": "Lamlong Bazaar Apmc",
+    "name": "Lamlong Bazaar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1814",
+    "state": "Manipur",
+    "district": "Kakching",
+    "sub": "Kakching Market Apmc",
+    "name": "Kakching Market Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1815",
+    "state": "Meghalaya",
+    "district": "East Khasi Hills",
+    "sub": "Shillong Apmc",
+    "name": "Shillong Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1816",
+    "state": "Nagaland",
+    "district": "Dimapur",
+    "sub": "Dimapur Apmc",
+    "name": "Dimapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1817",
+    "state": "Nagaland",
+    "district": "Kiphire",
+    "sub": "Kipheri Apmc",
+    "name": "Kipheri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1818",
+    "state": "Nagaland",
+    "district": "Kohima",
+    "sub": "Kohima Apmc",
+    "name": "Kohima Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1819",
+    "state": "Nagaland",
+    "district": "Longleng",
+    "sub": "Longleng Apmc",
+    "name": "Longleng Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1820",
+    "state": "Nagaland",
+    "district": "Tsemenyu",
+    "sub": "Tsemenyu Apmc",
+    "name": "Tsemenyu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1821",
+    "state": "Nagaland",
+    "district": "Wokha",
+    "sub": "Baghty Apmc",
+    "name": "Baghty Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1822",
+    "state": "Nagaland",
+    "district": "Wokha",
+    "sub": "Wokha Town Apmc",
+    "name": "Wokha Town Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1823",
+    "state": "Nagaland",
+    "district": "Zunheboto",
+    "sub": "Ghathashi Apmc",
+    "name": "Ghathashi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1824",
+    "state": "Nct Of Delhi",
+    "district": "Delhi",
+    "sub": "Fish,Poultry & Egg Market, Gazipur Apmc",
+    "name": "Fish,Poultry & Egg Market, Gazipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1825",
+    "state": "Nct Of Delhi",
+    "district": "Delhi",
+    "sub": "Flower Market,Gazipur Apmc",
+    "name": "Flower Market,Gazipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1826",
+    "state": "Nct Of Delhi",
+    "district": "Delhi",
+    "sub": "Keshopur Apmc",
+    "name": "Keshopur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1827",
+    "state": "Odisha",
+    "district": "Balasore",
+    "sub": "Jaleswar Apmc",
+    "name": "Jaleswar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1828",
+    "state": "Odisha",
+    "district": "Bargarh",
+    "sub": "Attabira Apmc",
+    "name": "Attabira Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1829",
+    "state": "Odisha",
+    "district": "Bargarh",
+    "sub": "Padampur Apmc",
+    "name": "Padampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1830",
+    "state": "Odisha",
+    "district": "Bolangir",
+    "sub": "Kantabaji Apmc",
+    "name": "Kantabaji Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1831",
+    "state": "Odisha",
+    "district": "Boudh",
+    "sub": "Boudh Apmc",
+    "name": "Boudh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1832",
+    "state": "Odisha",
+    "district": "Cuttack",
+    "sub": "Banki Apmc",
+    "name": "Banki Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1833",
+    "state": "Odisha",
+    "district": "Cuttack",
+    "sub": "Kendupatna Apmc",
+    "name": "Kendupatna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1834",
+    "state": "Odisha",
+    "district": "Cuttack",
+    "sub": "Rairangpur Apmc",
+    "name": "Rairangpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1835",
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "sub": "Dhenkanal Apmc",
+    "name": "Dhenkanal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1836",
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "sub": "Hindol Apmc",
+    "name": "Hindol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1837",
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "sub": "Kamakhyanagar Apmc",
+    "name": "Kamakhyanagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1838",
+    "state": "Odisha",
+    "district": "Gajapati",
+    "sub": "Parlakhemundi Apmc",
+    "name": "Parlakhemundi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1839",
+    "state": "Odisha",
+    "district": "Ganjam",
+    "sub": "Digapahandi Apmc",
+    "name": "Digapahandi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1840",
+    "state": "Odisha",
+    "district": "Ganjam",
+    "sub": "Hinjilicut Apmc",
+    "name": "Hinjilicut Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1841",
+    "state": "Odisha",
+    "district": "Jagatsinghpur",
+    "sub": "Jagatsinghpur Apmc",
+    "name": "Jagatsinghpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1842",
+    "state": "Odisha",
+    "district": "Jagatsinghpur",
+    "sub": "Rahama Apmc",
+    "name": "Rahama Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1843",
+    "state": "Odisha",
+    "district": "Jajpur",
+    "sub": "Jajpur Apmc",
+    "name": "Jajpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1844",
+    "state": "Odisha",
+    "district": "Jharsuguda",
+    "sub": "Jharsuguda Apmc",
+    "name": "Jharsuguda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1845",
+    "state": "Odisha",
+    "district": "Kalahandi",
+    "sub": "Junagarh Apmc",
+    "name": "Junagarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1846",
+    "state": "Odisha",
+    "district": "Kalahandi",
+    "sub": "Kesinga Apmc",
+    "name": "Kesinga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1847",
+    "state": "Odisha",
+    "district": "Kandhamal",
+    "sub": "Kandhamal Apmc",
+    "name": "Kandhamal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1848",
+    "state": "Odisha",
+    "district": "Keonjhar",
+    "sub": "Champua Apmc",
+    "name": "Champua Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1849",
+    "state": "Odisha",
+    "district": "Keonjhar",
+    "sub": "Keonjhar Apmc",
+    "name": "Keonjhar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1850",
+    "state": "Odisha",
+    "district": "Khurda",
+    "sub": "Balugaon Apmc",
+    "name": "Balugaon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1851",
+    "state": "Odisha",
+    "district": "Mayurbhanja",
+    "sub": "Baripada Apmc",
+    "name": "Baripada Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1852",
+    "state": "Odisha",
+    "district": "Mayurbhanja",
+    "sub": "Betnoti Apmc",
+    "name": "Betnoti Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1853",
+    "state": "Odisha",
+    "district": "Mayurbhanja",
+    "sub": "Karanjia Apmc",
+    "name": "Karanjia Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1854",
+    "state": "Odisha",
+    "district": "Mayurbhanja",
+    "sub": "Narasinghpur Apmc",
+    "name": "Narasinghpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1855",
+    "state": "Odisha",
+    "district": "Mayurbhanja",
+    "sub": "Udala Apmc",
+    "name": "Udala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1856",
+    "state": "Odisha",
+    "district": "Nayagarh",
+    "sub": "Bahadajholla Apmc",
+    "name": "Bahadajholla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1857",
+    "state": "Odisha",
+    "district": "Nayagarh",
+    "sub": "Sarankul Apmc",
+    "name": "Sarankul Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1858",
+    "state": "Odisha",
+    "district": "Nuapada",
+    "sub": "Khariar Road Apmc",
+    "name": "Khariar Road Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1859",
+    "state": "Odisha",
+    "district": "Puri",
+    "sub": "Nimapara Apmc",
+    "name": "Nimapara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1860",
+    "state": "Odisha",
+    "district": "Rayagada",
+    "sub": "Gunpur Apmc",
+    "name": "Gunpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1861",
+    "state": "Odisha",
+    "district": "Rayagada",
+    "sub": "Rayagada Apmc",
+    "name": "Rayagada Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1862",
+    "state": "Odisha",
+    "district": "Sambalpur",
+    "sub": "Kuchinda Apmc",
+    "name": "Kuchinda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1863",
+    "state": "Odisha",
+    "district": "Sambalpur",
+    "sub": "Rairakhol Apmc",
+    "name": "Rairakhol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1864",
+    "state": "Odisha",
+    "district": "Sonepur",
+    "sub": "Birmaharajpur Apmc",
+    "name": "Birmaharajpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1865",
+    "state": "Odisha",
+    "district": "Sundergarh",
+    "sub": "Panposh Apmc",
+    "name": "Panposh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1866",
+    "state": "Odisha",
+    "district": "Sundergarh",
+    "sub": "Sargipali Apmc",
+    "name": "Sargipali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1867",
+    "state": "Pondicherry",
+    "district": "Pondicherry",
+    "sub": "Madagadipet Apmc",
+    "name": "Madagadipet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1868",
+    "state": "Punjab",
+    "district": "Amritsar",
+    "sub": "Majitha Apmc",
+    "name": "Majitha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1869",
+    "state": "Punjab",
+    "district": "Amritsar",
+    "sub": "Rayya Apmc",
+    "name": "Rayya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1870",
+    "state": "Punjab",
+    "district": "Bhatinda",
+    "sub": "Bathinda Apmc",
+    "name": "Bathinda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1871",
+    "state": "Punjab",
+    "district": "Bhatinda",
+    "sub": "Talwandi Sabo Apmc",
+    "name": "Talwandi Sabo Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1872",
+    "state": "Punjab",
+    "district": "Fatehgarh",
+    "sub": "Bassi Pathana Apmc",
+    "name": "Bassi Pathana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1873",
+    "state": "Punjab",
+    "district": "Ferozpur",
+    "sub": "Zira Apmc",
+    "name": "Zira Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1874",
+    "state": "Punjab",
+    "district": "Gurdaspur",
+    "sub": "Dera Baba Nanak Apmc",
+    "name": "Dera Baba Nanak Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1875",
+    "state": "Punjab",
+    "district": "Gurdaspur",
+    "sub": "Dinanagar Apmc",
+    "name": "Dinanagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1876",
+    "state": "Punjab",
+    "district": "Gurdaspur",
+    "sub": "Kalanaur Apmc",
+    "name": "Kalanaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1877",
+    "state": "Punjab",
+    "district": "Hoshiarpur",
+    "sub": "Tanda Urmur Apmc",
+    "name": "Tanda Urmur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1878",
+    "state": "Punjab",
+    "district": "Kapurthala",
+    "sub": "Kapurthala Apmc",
+    "name": "Kapurthala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1879",
+    "state": "Punjab",
+    "district": "Kapurthala",
+    "sub": "Sultanpur Apmc",
+    "name": "Sultanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1880",
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "sub": "Khanna Apmc",
+    "name": "Khanna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1881",
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "sub": "Ludhiana Apmc",
+    "name": "Ludhiana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1882",
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "sub": "Sahnewal Apmc",
+    "name": "Sahnewal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1883",
+    "state": "Punjab",
+    "district": "Mohali",
+    "sub": "Banur Apmc",
+    "name": "Banur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1884",
+    "state": "Punjab",
+    "district": "Mohali",
+    "sub": "Kurali Apmc",
+    "name": "Kurali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1885",
+    "state": "Punjab",
+    "district": "Muktsar",
+    "sub": "Giddarbaha Apmc",
+    "name": "Giddarbaha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1886",
+    "state": "Punjab",
+    "district": "Sangrur",
+    "sub": "Ahmedgarh Apmc",
+    "name": "Ahmedgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1887",
+    "state": "Punjab",
+    "district": "Sangrur",
+    "sub": "Bhawanigarh Apmc",
+    "name": "Bhawanigarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1888",
+    "state": "Punjab",
+    "district": "Tarntaran",
+    "sub": "Bhikhiwind Apmc",
+    "name": "Bhikhiwind Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1889",
+    "state": "Punjab",
+    "district": "Tarntaran",
+    "sub": "Naushera Pannuan Apmc",
+    "name": "Naushera Pannuan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1890",
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "sub": "Govindgarh Apmc",
+    "name": "Govindgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1891",
+    "state": "Rajasthan",
+    "district": "Anupgarh",
+    "sub": "Gharsana Apmc",
+    "name": "Gharsana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1892",
+    "state": "Rajasthan",
+    "district": "Anupgarh",
+    "sub": "Raisingh Nagar Apmc",
+    "name": "Raisingh Nagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1893",
+    "state": "Rajasthan",
+    "district": "Anupgarh",
+    "sub": "Rawla Apmc",
+    "name": "Rawla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1894",
+    "state": "Rajasthan",
+    "district": "Baran",
+    "sub": "Anta Apmc",
+    "name": "Anta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1895",
+    "state": "Rajasthan",
+    "district": "Baran",
+    "sub": "Baran Apmc",
+    "name": "Baran Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1896",
+    "state": "Rajasthan",
+    "district": "Baran",
+    "sub": "Chhabra Apmc",
+    "name": "Chhabra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1897",
+    "state": "Rajasthan",
+    "district": "Baran",
+    "sub": "Nahargarh Apmc",
+    "name": "Nahargarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1898",
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "sub": "Barmer Apmc",
+    "name": "Barmer Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1899",
+    "state": "Rajasthan",
+    "district": "Beawar",
+    "sub": "Bijaynagar Apmc",
+    "name": "Bijaynagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1900",
+    "state": "Rajasthan",
+    "district": "Beawar",
+    "sub": "Jaitaran Apmc",
+    "name": "Jaitaran Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1901",
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "sub": "Bikaner (F&V) Apmc",
+    "name": "Bikaner (F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1902",
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "sub": "Bundi Apmc",
+    "name": "Bundi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1903",
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "sub": "Dei Apmc",
+    "name": "Dei Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1904",
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "sub": "Begu Apmc",
+    "name": "Begu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1905",
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "sub": "Kapasan Apmc",
+    "name": "Kapasan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1906",
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "sub": "Nimbahera Apmc",
+    "name": "Nimbahera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1907",
+    "state": "Rajasthan",
+    "district": "Churu",
+    "sub": "Churu Apmc",
+    "name": "Churu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1908",
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "sub": "Mandawar Apmc",
+    "name": "Mandawar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1909",
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "sub": "Mandawari Apmc",
+    "name": "Mandawari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1910",
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "sub": "Gajsinghpur Apmc",
+    "name": "Gajsinghpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1911",
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "sub": "Padampur Apmc",
+    "name": "Padampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1912",
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "sub": "Sriganganagar (F&V) Apmc",
+    "name": "Sriganganagar (F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1913",
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "sub": "Suratgarh Apmc",
+    "name": "Suratgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1914",
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "sub": "Bhadara Apmc",
+    "name": "Bhadara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1915",
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "sub": "Rawatsar Apmc",
+    "name": "Rawatsar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1916",
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "sub": "Sangriya Apmc",
+    "name": "Sangriya Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1917",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "sub": "Jaipur (F&V) Apmc",
+    "name": "Jaipur (F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1918",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "sub": "Jaipur (Grain) Apmc",
+    "name": "Jaipur (Grain) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1919",
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "sub": "Jaisalmer Apmc",
+    "name": "Jaisalmer Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1920",
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "sub": "Mohangarh Apmc",
+    "name": "Mohangarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1921",
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "sub": "Bhinmal Apmc",
+    "name": "Bhinmal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1922",
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "sub": "Jalore Apmc",
+    "name": "Jalore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1923",
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "sub": "Iklera Apmc",
+    "name": "Iklera Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1924",
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "sub": "Jhalarapatan Apmc",
+    "name": "Jhalarapatan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1925",
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "sub": "Khanpur Apmc",
+    "name": "Khanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1926",
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "sub": "Nawalgarh Apmc",
+    "name": "Nawalgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1927",
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "sub": "Surajgarh Apmc",
+    "name": "Surajgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1928",
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "sub": "Jodhpur (Grain) Apmc",
+    "name": "Jodhpur (Grain) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1929",
+    "state": "Rajasthan",
+    "district": "Jodhpur Rural",
+    "sub": "Osiyan Mathania Apmc",
+    "name": "Osiyan Mathania Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1930",
+    "state": "Rajasthan",
+    "district": "Kekri",
+    "sub": "Kekri Apmc",
+    "name": "Kekri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1931",
+    "state": "Rajasthan",
+    "district": "Kota",
+    "sub": "Khatauli Apmc",
+    "name": "Khatauli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1932",
+    "state": "Rajasthan",
+    "district": "Kota",
+    "sub": "Kota (F&V) Apmc",
+    "name": "Kota (F&V) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1933",
+    "state": "Rajasthan",
+    "district": "Kota",
+    "sub": "Manohararthana Apmc",
+    "name": "Manohararthana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1934",
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "sub": "Degana Apmc",
+    "name": "Degana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1935",
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "sub": "Nagaur Apmc",
+    "name": "Nagaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1936",
+    "state": "Rajasthan",
+    "district": "Pali",
+    "sub": "Pali Apmc",
+    "name": "Pali Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1937",
+    "state": "Rajasthan",
+    "district": "Pali",
+    "sub": "Rani Apmc",
+    "name": "Rani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1938",
+    "state": "Rajasthan",
+    "district": "Pali",
+    "sub": "Sojat City Apmc",
+    "name": "Sojat City Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1939",
+    "state": "Rajasthan",
+    "district": "Pali",
+    "sub": "Sojat Road Apmc",
+    "name": "Sojat Road Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1940",
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "sub": "Chhotisadri Apmc",
+    "name": "Chhotisadri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1941",
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "sub": "Pratapgarh Apmc",
+    "name": "Pratapgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1942",
+    "state": "Rajasthan",
+    "district": "Sanchore",
+    "sub": "Raniwara Apmc",
+    "name": "Raniwara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1943",
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "sub": "Fatehpur Apmc",
+    "name": "Fatehpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1944",
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "sub": "Sikar Apmc",
+    "name": "Sikar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1945",
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "sub": "Dooni Apmc",
+    "name": "Dooni Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1946",
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "sub": "Malpura Apmc",
+    "name": "Malpura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1947",
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "sub": "Uniyara Apmc",
+    "name": "Uniyara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1948",
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "sub": "Fatehnagar Apmc",
+    "name": "Fatehnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1949",
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "sub": "Udaipur (Grain) Apmc",
+    "name": "Udaipur (Grain) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1950",
+    "state": "Tamil Nadu",
+    "district": "Ariyalur",
+    "sub": "Ariyalur(Uzhavar Sandhai) Apmc",
+    "name": "Ariyalur(Uzhavar Sandhai) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1951",
+    "state": "Tamil Nadu",
+    "district": "Ariyalur",
+    "sub": "Jeyankondam (Uzhavar Sandhai ) Apmc",
+    "name": "Jeyankondam (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1952",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Chengalpet(Uzhavar Sandhai ) Apmc",
+    "name": "Chengalpet(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1953",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Guduvancheri(Uzhavar Sandhai ) Apmc",
+    "name": "Guduvancheri(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1954",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Jameenrayapettai(Uzhavar Sandhai ) Apmc",
+    "name": "Jameenrayapettai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1955",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Madhuranthagam(Uzhavar Sandhai ) Apmc",
+    "name": "Madhuranthagam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1956",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Medavakkam(Uzhavar Sandhai ) Apmc",
+    "name": "Medavakkam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1957",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Nanganallur(Uzhavar Sandhai ) Apmc",
+    "name": "Nanganallur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1958",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Pallavaram(Uzhavar Sandhai ) Apmc",
+    "name": "Pallavaram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1959",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "sub": "Thirukalukundram(Uzhavar Sandhai ) Apmc",
+    "name": "Thirukalukundram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1960",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Kurichi(Uzhavar Sandhai ) Apmc",
+    "name": "Kurichi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1961",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Madathukulam Apmc",
+    "name": "Madathukulam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1962",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Mettupalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Mettupalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1963",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Pollachi(Uzhavar Sandhai ) Apmc",
+    "name": "Pollachi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1964",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Rspuram(Uzhavar Sandhai ) Apmc",
+    "name": "Rspuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1965",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Singanallur(Uzhavar Sandhai ) Apmc",
+    "name": "Singanallur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1966",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Sulur(Uzhavar Sandhai ) Apmc",
+    "name": "Sulur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1967",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Sundarapuram(Uzhavar Sandhai ) Apmc",
+    "name": "Sundarapuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1968",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Udumalpet Apmc",
+    "name": "Udumalpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1969",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "sub": "Vadavalli(Uzhavar Sandhai ) Apmc",
+    "name": "Vadavalli(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1970",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Chidambaram(Uzhavar Sandhai ) Apmc",
+    "name": "Chidambaram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1971",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Cuddalore Apmc",
+    "name": "Cuddalore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1972",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Cuddalore(Uzhavar Sandhai ) Apmc",
+    "name": "Cuddalore(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1973",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Panruti(Uzhavar Sandhai ) Apmc",
+    "name": "Panruti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1974",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Vadalur(Uzhavar Sandhai ) Apmc",
+    "name": "Vadalur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1975",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "sub": "Viruthachalam(Uzhavar Sandhai ) Apmc",
+    "name": "Viruthachalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1976",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Ajattihalli(Uzhavar Sandhai ) Apmc",
+    "name": "Ajattihalli(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1977",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Dharmapuri(Uzhavar Sandhai ) Apmc",
+    "name": "Dharmapuri(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1978",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Harur(Uzhavar Sandhai ) Apmc",
+    "name": "Harur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1979",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Karimangalam(Uzhavar Sandhai)",
+    "name": "Karimangalam(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1980",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Palacode(Uzhavar Sandhai ) Apmc",
+    "name": "Palacode(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1981",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "sub": "Pennagaram(Uzhavar Sandhai ) Apmc",
+    "name": "Pennagaram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1982",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "sub": "Chinnalapatti(Uzhavar Sandhai ) Apmc",
+    "name": "Chinnalapatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1983",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "sub": "Dindigul(Uzhavar Sandhai ) Apmc",
+    "name": "Dindigul(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1984",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "sub": "Kodaikkanal(Uzhavar Sandhai) Apmc",
+    "name": "Kodaikkanal(Uzhavar Sandhai) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1985",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "sub": "Palani(Uzhavar Sandhai ) Apmc",
+    "name": "Palani(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1986",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "sub": "Vedasanthur(Uzhavar Sandhai ) Apmc",
+    "name": "Vedasanthur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1987",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Gobichettipalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Gobichettipalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1988",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Periyar Nagar(Uzhavar Sandhai ) Apmc",
+    "name": "Periyar Nagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1989",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Perundurai(Uzhavar Sandhai ) Apmc",
+    "name": "Perundurai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1990",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Sampath Nagar(Uzhavar Sandhai ) Apmc",
+    "name": "Sampath Nagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1991",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Sathiyamagalam(Uzhavar Sandhai ) Apmc",
+    "name": "Sathiyamagalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1992",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "sub": "Thalavadi(Uzhavar Sandhai ) Apmc",
+    "name": "Thalavadi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1993",
+    "state": "Tamil Nadu",
+    "district": "Kallakuruchi",
+    "sub": "Kallakurichi(Uzhavar Sandhai ) Apmc",
+    "name": "Kallakurichi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1994",
+    "state": "Tamil Nadu",
+    "district": "Kallakuruchi",
+    "sub": "Sankarapuram(Uzhavar Sandhai ) Apmc",
+    "name": "Sankarapuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1995",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Gummidipoondy Apmc",
+    "name": "Gummidipoondy Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1996",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Kancheepuram(Uzhavar Sandhai ) Apmc",
+    "name": "Kancheepuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1997",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Kundrathur(Uzhavar Sandhai ) Apmc",
+    "name": "Kundrathur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1998",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Maduranthagam Apmc",
+    "name": "Maduranthagam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m1999",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Padappai(Uzhavar Sandhai ) Apmc",
+    "name": "Padappai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2000",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Sunguvarchatram(Uzhavar Sandhai ) Apmc",
+    "name": "Sunguvarchatram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2001",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Tiruttani Apmc",
+    "name": "Tiruttani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2002",
+    "state": "Tamil Nadu",
+    "district": "Kancheepuram",
+    "sub": "Uthiramerur Apmc",
+    "name": "Uthiramerur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2003",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Gandhigramam(Uzhavar Sandhai)",
+    "name": "Gandhigramam(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2004",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Karur Apmc",
+    "name": "Karur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2005",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Karur(Uzhavar Sandhai ) Apmc",
+    "name": "Karur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2006",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Kulithalai(Uzhavar Sandhai ) Apmc",
+    "name": "Kulithalai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2007",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Pallapatti (Uzhavar Sandhai ) Apmc",
+    "name": "Pallapatti (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2008",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Velayuthampalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Velayuthampalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2009",
+    "state": "Tamil Nadu",
+    "district": "Karur",
+    "sub": "Vengamedu(Uzhavar Sandhai ) Apmc",
+    "name": "Vengamedu(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2010",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "sub": "Avallapalli(Uzhavar Sandhai ) Apmc",
+    "name": "Avallapalli(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2011",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "sub": "Denkanikottai(Uzhavar Sandhai ) Apmc",
+    "name": "Denkanikottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2012",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "sub": "Hosur(Uzhavar Sandhai ) Apmc",
+    "name": "Hosur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2013",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "sub": "Kaveripattinam(Uzhavar Sandhai ) Apmc",
+    "name": "Kaveripattinam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2014",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "sub": "Krishnagiri(Uzhavar Sandhai ) Apmc",
+    "name": "Krishnagiri(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2015",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Anaiyur(Uzhavar Sandhai ) Apmc",
+    "name": "Anaiyur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2016",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Anna Nagar(Uzhavar Sandhai ) Apmc",
+    "name": "Anna Nagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2017",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Chokkikulam(Uzhavar Sandhai ) Apmc",
+    "name": "Chokkikulam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2018",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Melur(Uzhavar Sandhai ) Apmc",
+    "name": "Melur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2019",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Palanganatham(Uzhavar Sandhai ) Apmc",
+    "name": "Palanganatham(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2020",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Thirumangalam(Uzhavar Sandhai ) Apmc",
+    "name": "Thirumangalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2021",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "sub": "Usilampatti(Uzhavar Sandhai ) Apmc",
+    "name": "Usilampatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2022",
+    "state": "Tamil Nadu",
+    "district": "Nagapattinam",
+    "sub": "Mayiladuthurai(Uzhavar Sandhai ) Apmc",
+    "name": "Mayiladuthurai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2023",
+    "state": "Tamil Nadu",
+    "district": "Nagapattinam",
+    "sub": "Nagapattinam(Uzhavar Sandhai ) Apmc",
+    "name": "Nagapattinam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2024",
+    "state": "Tamil Nadu",
+    "district": "Nagapattinam",
+    "sub": "Sirkali(Uzhavar Sandhai ) Apmc",
+    "name": "Sirkali(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2025",
+    "state": "Tamil Nadu",
+    "district": "Nagapattinam",
+    "sub": "Vedaranyam(Uzhavar Sandhai)",
+    "name": "Vedaranyam(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2026",
+    "state": "Tamil Nadu",
+    "district": "Nagercoil (Kannyiakumari)",
+    "sub": "Myladi(Uzhavar Sandhai ) Apmc",
+    "name": "Myladi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2027",
+    "state": "Tamil Nadu",
+    "district": "Nagercoil (Kannyiakumari)",
+    "sub": "Vadaseri Apmc",
+    "name": "Vadaseri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2028",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Kumarapalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Kumarapalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2029",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Mohanur(Uzhavar Sandhai ) Apmc",
+    "name": "Mohanur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2030",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Namakkal(Uzhavar Sandhai ) Apmc",
+    "name": "Namakkal(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2031",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Paramathivelur(Uzhavar Sandhai ) Apmc",
+    "name": "Paramathivelur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2032",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Rasipuram(Uzhavar Sandhai ) Apmc",
+    "name": "Rasipuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2033",
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "sub": "Tiruchengode Apmc",
+    "name": "Tiruchengode Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2034",
+    "state": "Tamil Nadu",
+    "district": "Perambalur",
+    "sub": "Perambalur(Uzhavar Sandhai ) Apmc",
+    "name": "Perambalur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2035",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Alangudi(Uzhavar Sandhai ) Apmc",
+    "name": "Alangudi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2036",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Aranthangi(Uzhavar Sandhai ) Apmc",
+    "name": "Aranthangi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2037",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Gandarvakottai(Uzhavar Sandhai ) Apmc",
+    "name": "Gandarvakottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2038",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Karambakkudi(Uzhavar Sandhai ) Apmc",
+    "name": "Karambakkudi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2039",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Ponnamaravathi(Uzhavar Sandhai)",
+    "name": "Ponnamaravathi(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2040",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Pudukottai(Uzhavar Sandhai ) Apmc",
+    "name": "Pudukottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2041",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "sub": "Viralimalai(Uzhavar Sandhai ) Apmc",
+    "name": "Viralimalai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2042",
+    "state": "Tamil Nadu",
+    "district": "Ramanathapuram",
+    "sub": "Kamuthi(Uzhavar Sandhai ) Apmc",
+    "name": "Kamuthi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2043",
+    "state": "Tamil Nadu",
+    "district": "Ramanathapuram",
+    "sub": "Paramakudi(Uzhavar Sandhai ) Apmc",
+    "name": "Paramakudi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2044",
+    "state": "Tamil Nadu",
+    "district": "Ramanathapuram",
+    "sub": "Ramanathapuram(Uzhavar Sandhai ) Apmc",
+    "name": "Ramanathapuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2045",
+    "state": "Tamil Nadu",
+    "district": "Ranipet",
+    "sub": "Arcot(Uzhavar Sandhai ) Apmc",
+    "name": "Arcot(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2046",
+    "state": "Tamil Nadu",
+    "district": "Ranipet",
+    "sub": "Ranipettai(Uzhavar Sandhai ) Apmc",
+    "name": "Ranipettai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2047",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Ammapet(Uzhavar Sandhai ) Apmc",
+    "name": "Ammapet(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2048",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Athur(Uzhavar Sandhai ) Apmc",
+    "name": "Athur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2049",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Attayampatti(Uzhavar Sandhai ) Apmc",
+    "name": "Attayampatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2050",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Edapadi (Uzhavar Sandhai ) Apmc",
+    "name": "Edapadi (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2051",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Elampillai(Uzhavar Sandhai ) Apmc",
+    "name": "Elampillai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2052",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Hasthampatti(Uzhavar Sandhai ) Apmc",
+    "name": "Hasthampatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2053",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Jalagandapuram(Uzhavar Sandhai ) Apmc",
+    "name": "Jalagandapuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2054",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Mecheri(Uzhavar Sandhai)",
+    "name": "Mecheri(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2055",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Mettur(Uzhavar Sandhai ) Apmc",
+    "name": "Mettur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2056",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Sooramangalam(Uzhavar Sandhai ) Apmc",
+    "name": "Sooramangalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2057",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Thammampatti (Uzhavar Sandhai ) Apmc",
+    "name": "Thammampatti (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2058",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Thathakapatti(Uzhavar Sandhai ) Apmc",
+    "name": "Thathakapatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2059",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "sub": "Vazhapadi(Uzhavar Sandhai)",
+    "name": "Vazhapadi(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2060",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "sub": "Devakottai (Uzhavar Sandhai ) Apmc",
+    "name": "Devakottai (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2061",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "sub": "Karaikudi(Uzhavar Sandhai ) Apmc",
+    "name": "Karaikudi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2062",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "sub": "Singampunari(Uzhavar Sandhai ) Apmc",
+    "name": "Singampunari(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2063",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "sub": "Sivagangai (Uzhavar Sandhai ) Apmc",
+    "name": "Sivagangai (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2064",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "sub": "Tirupatthur(Uzhavar Sandhai ) Apmc",
+    "name": "Tirupatthur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2065",
+    "state": "Tamil Nadu",
+    "district": "Tenkasi",
+    "sub": "Kadayanallur Apmc",
+    "name": "Kadayanallur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2066",
+    "state": "Tamil Nadu",
+    "district": "Tenkasi",
+    "sub": "Pavoorchatram Apmc",
+    "name": "Pavoorchatram Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2067",
+    "state": "Tamil Nadu",
+    "district": "Tenkasi",
+    "sub": "Sankarankoil(Uzhavar Sandhai ) Apmc",
+    "name": "Sankarankoil(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2068",
+    "state": "Tamil Nadu",
+    "district": "Tenkasi",
+    "sub": "Tenkasi(Uzhavar Sandhai ) Apmc",
+    "name": "Tenkasi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2069",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Kumbakonam (Uzhavar Sandhai ) Apmc",
+    "name": "Kumbakonam (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2070",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Papanasam(Uzhavar Sandhai ) Apmc",
+    "name": "Papanasam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2071",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Pattukottai(Uzhavar Sandhai ) Apmc",
+    "name": "Pattukottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2072",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Peravurani(Uzhavar Sandhai)",
+    "name": "Peravurani(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2073",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Thanjavur(Uzhavar Sandhai ) Apmc",
+    "name": "Thanjavur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2074",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "sub": "Tirukattupalli(Uzhavar Sandhai ) Apmc",
+    "name": "Tirukattupalli(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2075",
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "sub": "Coonoor(Uzhavar Sandhai ) Apmc",
+    "name": "Coonoor(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2076",
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "sub": "Gudalur(Uzhavar Sandhai ) Apmc",
+    "name": "Gudalur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2077",
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "sub": "Udhagamandalam(Uzhavar Sandhai ) Apmc",
+    "name": "Udhagamandalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2078",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Andipatti(Uzhavar Sandhai ) Apmc",
+    "name": "Andipatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2079",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Bodinayakanur(Uzhavar Sandhai ) Apmc",
+    "name": "Bodinayakanur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2080",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Chinnamanur(Uzhavar Sandhai ) Apmc",
+    "name": "Chinnamanur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2081",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Devaram(Uzhavar Sandhai ) Apmc",
+    "name": "Devaram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2082",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Kambam(Uzhavar Sandhai ) Apmc",
+    "name": "Kambam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2083",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Periyakulam(Uzhavar Sandhai ) Apmc",
+    "name": "Periyakulam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2084",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "sub": "Theni(Uzhavar Sandhai ) Apmc",
+    "name": "Theni(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2085",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Kknagar(Uzhavar Sandhai ) Apmc",
+    "name": "Kknagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2086",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Lalgudi(Uzhavar Sandhai ) Apmc",
+    "name": "Lalgudi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2087",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Manachanallur Apmc",
+    "name": "Manachanallur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2088",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Manachanallur(Uzhavar Sandhai ) Apmc",
+    "name": "Manachanallur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2089",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Manapparai(Uzhavar Sandhai ) Apmc",
+    "name": "Manapparai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2090",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Musiri(Uzhavar Sandhai ) Apmc",
+    "name": "Musiri(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2091",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Thiruverumbur(Uzhavar Sandhai ) Apmc",
+    "name": "Thiruverumbur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2092",
+    "state": "Tamil Nadu",
+    "district": "Thiruchirappalli",
+    "sub": "Thuraiyur Apmc",
+    "name": "Thuraiyur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2093",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Ambasamudram(Uzhavar Sandhai ) Apmc",
+    "name": "Ambasamudram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2094",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Kandiyaperi(Uzhavar Sandhai ) Apmc",
+    "name": "Kandiyaperi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2095",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Melapalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Melapalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2096",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Ngo Colony(Uzhavar Sandhai ) Apmc",
+    "name": "Ngo Colony(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2097",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Palayamkottai(Uzhavar Sandhai ) Apmc",
+    "name": "Palayamkottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2098",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Thenkasi Apmc",
+    "name": "Thenkasi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2099",
+    "state": "Tamil Nadu",
+    "district": "Thirunelveli",
+    "sub": "Tisayanvilai Apmc",
+    "name": "Tisayanvilai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2100",
+    "state": "Tamil Nadu",
+    "district": "Thirupathur",
+    "sub": "Natrampalli(Uzhavar Sandhai ) Apmc",
+    "name": "Natrampalli(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2101",
+    "state": "Tamil Nadu",
+    "district": "Thirupathur",
+    "sub": "Vaniyampadi(Uzhavar Sandhai ) Apmc",
+    "name": "Vaniyampadi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2102",
+    "state": "Tamil Nadu",
+    "district": "Thirupur",
+    "sub": "Dharapuram(Uzhavar Sandhai ) Apmc",
+    "name": "Dharapuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2103",
+    "state": "Tamil Nadu",
+    "district": "Thirupur",
+    "sub": "Kangayam(Uzhavar Sandhai ) Apmc",
+    "name": "Kangayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2104",
+    "state": "Tamil Nadu",
+    "district": "Thirupur",
+    "sub": "Palladam(Uzhavar Sandhai ) Apmc",
+    "name": "Palladam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2105",
+    "state": "Tamil Nadu",
+    "district": "Thirupur",
+    "sub": "Tiruppur (North) (Uzhavar Sandhai ) Apmc",
+    "name": "Tiruppur (North) (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2106",
+    "state": "Tamil Nadu",
+    "district": "Thirupur",
+    "sub": "Tiruppur (South) (Uzhavar Sandhai ) Apmc",
+    "name": "Tiruppur (South) (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2107",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Arani(Uzhavar Sandhai ) Apmc",
+    "name": "Arani(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2108",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Chengam(Uzhavar Sandhai ) Apmc",
+    "name": "Chengam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2109",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Chetpet Apmc",
+    "name": "Chetpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2110",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Cheyyar Apmc",
+    "name": "Cheyyar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2111",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Cheyyar(Uzhavar Sandhai ) Apmc",
+    "name": "Cheyyar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2112",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Desur Apmc",
+    "name": "Desur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2113",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Keelpennathur(Uzhavar Sandhai ) Apmc",
+    "name": "Keelpennathur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2114",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Polur(Uzhavar Sandhai ) Apmc",
+    "name": "Polur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2115",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Tamarainagar(Uzhavar Sandhai ) Apmc",
+    "name": "Tamarainagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2116",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Tiruvannamalai(Uzhavar Sandhai ) Apmc",
+    "name": "Tiruvannamalai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2117",
+    "state": "Tamil Nadu",
+    "district": "Thiruvannamalai",
+    "sub": "Vandavasi(Uzhavar Sandhai ) Apmc",
+    "name": "Vandavasi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2118",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Mannargudi I(Uzhavar Sandhai ) Apmc",
+    "name": "Mannargudi I(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2119",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Mannargudi Ii(Uzhavar Sandhai ) Apmc",
+    "name": "Mannargudi Ii(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2120",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Muthupettai(Uzhavar Sandhai ) Apmc",
+    "name": "Muthupettai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2121",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Needamangalam(Uzhavar Sandhai ) Apmc",
+    "name": "Needamangalam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2122",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Tiruthuraipoondi(Uzhavar Sandhai ) Apmc",
+    "name": "Tiruthuraipoondi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2123",
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "sub": "Valangaiman Apmc",
+    "name": "Valangaiman Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2124",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Ambattur(Uzhavar Sandhai ) Apmc",
+    "name": "Ambattur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2125",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Naravarikuppam(Uzhavar Sandhai ) Apmc",
+    "name": "Naravarikuppam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2126",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Paruthipattu(Uzhavar Sandhai ) Apmc",
+    "name": "Paruthipattu(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2127",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Perambakkam(Uzhavar Sandhai ) Apmc",
+    "name": "Perambakkam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2128",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Tiruthani(Uzhavar Sandhai ) Apmc",
+    "name": "Tiruthani(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2129",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Tiruvallur(Uzhavar Sandhai ) Apmc",
+    "name": "Tiruvallur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2130",
+    "state": "Tamil Nadu",
+    "district": "Thiruvellore",
+    "sub": "Tiruvellore Apmc",
+    "name": "Tiruvellore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2131",
+    "state": "Tamil Nadu",
+    "district": "Tuticorin",
+    "sub": "Kovilpatti(Uzhavar Sandhai ) Apmc",
+    "name": "Kovilpatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2132",
+    "state": "Tamil Nadu",
+    "district": "Tuticorin",
+    "sub": "Sathankulam Apmc",
+    "name": "Sathankulam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2133",
+    "state": "Tamil Nadu",
+    "district": "Tuticorin",
+    "sub": "Tuticorin(Uzhavar Sandhai ) Apmc",
+    "name": "Tuticorin(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2134",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Ammoor Apmc",
+    "name": "Ammoor Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2135",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Gudiyatham(Uzhavar Sandhai ) Apmc",
+    "name": "Gudiyatham(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2136",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Kahithapattarai(Uzhavar Sandhai ) Apmc",
+    "name": "Kahithapattarai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2137",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Katpadi (Uzhavar Sandhai ) Apmc",
+    "name": "Katpadi (Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2138",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Pallikonda(Uzhavar Sandhai)",
+    "name": "Pallikonda(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2139",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Perampet(Uzhavar Sandhai)",
+    "name": "Perampet(Uzhavar Sandhai) APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2140",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Thirupathur Apmc",
+    "name": "Thirupathur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2141",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "sub": "Vellore Apmc",
+    "name": "Vellore Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2142",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Avalurpet Apmc",
+    "name": "Avalurpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2143",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Gingee(Uzhavar Sandhai ) Apmc",
+    "name": "Gingee(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2144",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Thirukovilur Apmc",
+    "name": "Thirukovilur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2145",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Tindivanam Apmc",
+    "name": "Tindivanam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2146",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Ulundurpettai Apmc",
+    "name": "Ulundurpettai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2147",
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "sub": "Villupuram(Uzhavar Sandhai ) Apmc",
+    "name": "Villupuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2148",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Aruppukottai(Uzhavar Sandhai ) Apmc",
+    "name": "Aruppukottai(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2149",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Kariyapatti(Uzhavar Sandhai ) Apmc",
+    "name": "Kariyapatti(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2150",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Rajapalayam(Uzhavar Sandhai ) Apmc",
+    "name": "Rajapalayam(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2151",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Sathur(Uzhavar Sandhai ) Apmc",
+    "name": "Sathur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2152",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Sivakasi(Uzhavar Sandhai ) Apmc",
+    "name": "Sivakasi(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2153",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Srivilliputhur(Uzhavar Sandhai ) Apmc",
+    "name": "Srivilliputhur(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2154",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Thalavaipuram(Uzhavar Sandhai ) Apmc",
+    "name": "Thalavaipuram(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2155",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "sub": "Virudhunagar(Uzhavar Sandhai ) Apmc",
+    "name": "Virudhunagar(Uzhavar Sandhai ) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2156",
+    "state": "Telangana",
+    "district": "Adilabad",
+    "sub": "Adilabad Apmc",
+    "name": "Adilabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2157",
+    "state": "Telangana",
+    "district": "Adilabad",
+    "sub": "Bhainsa Apmc",
+    "name": "Bhainsa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2158",
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "sub": "Nuguru Charla Apmc",
+    "name": "Nuguru Charla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2159",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "sub": "Bowenpally Apmc",
+    "name": "Bowenpally Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2160",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "sub": "Gaddiannaram Apmc",
+    "name": "Gaddiannaram Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2161",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "sub": "Gudimalkapur Apmc",
+    "name": "Gudimalkapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2162",
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "sub": "Choppadandi Apmc",
+    "name": "Choppadandi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2163",
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "sub": "Jagtial Apmc",
+    "name": "Jagtial Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2164",
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "sub": "Jammikunta Apmc",
+    "name": "Jammikunta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2165",
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "sub": "Manakodur Apmc",
+    "name": "Manakodur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2166",
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "sub": "V.Saidapur Apmc",
+    "name": "V.Saidapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2167",
+    "state": "Telangana",
+    "district": "Khammam",
+    "sub": "Bhadrachalam Apmc",
+    "name": "Bhadrachalam Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2168",
+    "state": "Telangana",
+    "district": "Khammam",
+    "sub": "Burgampadu Apmc",
+    "name": "Burgampadu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2169",
+    "state": "Telangana",
+    "district": "Khammam",
+    "sub": "Dammapet Apmc",
+    "name": "Dammapet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2170",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Achampet Apmc",
+    "name": "Achampet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2171",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Gadwal Apmc",
+    "name": "Gadwal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2172",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Mahabubnagar(Rythu Bazar) Apmc",
+    "name": "Mahabubnagar(Rythu Bazar) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2173",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Mahbubnagar Apmc",
+    "name": "Mahbubnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2174",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Nagarkurnool Apmc",
+    "name": "Nagarkurnool Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2175",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Narayanpet Apmc",
+    "name": "Narayanpet Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2176",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Sathupally Apmc",
+    "name": "Sathupally Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2177",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Shadnagar Apmc",
+    "name": "Shadnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2178",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "sub": "Wanaparthy Road Apmc",
+    "name": "Wanaparthy Road Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2179",
+    "state": "Telangana",
+    "district": "Medak",
+    "sub": "Dubbak Apmc",
+    "name": "Dubbak Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2180",
+    "state": "Telangana",
+    "district": "Medak",
+    "sub": "Gajwel Apmc",
+    "name": "Gajwel Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2181",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "sub": "Devarakonda Apmc",
+    "name": "Devarakonda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2182",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "sub": "Huzurnagar Apmc",
+    "name": "Huzurnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2183",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "sub": "Nalgonda Apmc",
+    "name": "Nalgonda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2184",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "sub": "Suryapeta Apmc",
+    "name": "Suryapeta Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2185",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "sub": "Tirumalagiri Apmc",
+    "name": "Tirumalagiri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2186",
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "sub": "Chevella Apmc",
+    "name": "Chevella Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2187",
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "sub": "Kukatpally,Rbz Apmc",
+    "name": "Kukatpally,Rbz Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2188",
+    "state": "Telangana",
+    "district": "Warangal",
+    "sub": "Warangal Apmc",
+    "name": "Warangal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2189",
+    "state": "Tripura",
+    "district": "Dhalai",
+    "sub": "Chowmanu Apmc",
+    "name": "Chowmanu Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2190",
+    "state": "Tripura",
+    "district": "Dhalai",
+    "sub": "Kulai Apmc",
+    "name": "Kulai Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2191",
+    "state": "Tripura",
+    "district": "Gomati",
+    "sub": "Garjee Apmc",
+    "name": "Garjee Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2192",
+    "state": "Tripura",
+    "district": "Gomati",
+    "sub": "Silachhari Apmc",
+    "name": "Silachhari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2193",
+    "state": "Tripura",
+    "district": "Khowai",
+    "sub": "Bachaibari Apmc",
+    "name": "Bachaibari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2194",
+    "state": "Tripura",
+    "district": "Khowai",
+    "sub": "Kalyanpur Apmc",
+    "name": "Kalyanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2195",
+    "state": "Tripura",
+    "district": "Khowai",
+    "sub": "Teliamura Apmc",
+    "name": "Teliamura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2196",
+    "state": "Tripura",
+    "district": "North Tripura",
+    "sub": "Dasda Apmc",
+    "name": "Dasda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2197",
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "sub": "Bishalgarh Apmc",
+    "name": "Bishalgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2198",
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "sub": "Boxonagar",
+    "name": "Boxonagar APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2199",
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "sub": "Jampuijala Apmc",
+    "name": "Jampuijala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2200",
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "sub": "Melaghar Apmc",
+    "name": "Melaghar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2201",
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "sub": "Sonamura Apmc",
+    "name": "Sonamura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2202",
+    "state": "Tripura",
+    "district": "South Tripura",
+    "sub": "Barpathari Apmc",
+    "name": "Barpathari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2203",
+    "state": "Tripura",
+    "district": "South Tripura",
+    "sub": "Biokhora",
+    "name": "Biokhora APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2204",
+    "state": "Tripura",
+    "district": "South Tripura",
+    "sub": "Kalsi Apmc",
+    "name": "Kalsi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2205",
+    "state": "Tripura",
+    "district": "South Tripura",
+    "sub": "Manubazar",
+    "name": "Manubazar APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2206",
+    "state": "Tripura",
+    "district": "Unokoti",
+    "sub": "Machmara",
+    "name": "Machmara APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2207",
+    "state": "Tripura",
+    "district": "Unokoti",
+    "sub": "Pabiacherra Apmc",
+    "name": "Pabiacherra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2208",
+    "state": "Tripura",
+    "district": "West District",
+    "sub": "Kamalghat",
+    "name": "Kamalghat APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2209",
+    "state": "Tripura",
+    "district": "West District",
+    "sub": "Mohanpur Apmc",
+    "name": "Mohanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2210",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "sub": "Fatehabad Apmc",
+    "name": "Fatehabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2211",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "sub": "Jagnair Apmc",
+    "name": "Jagnair Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2212",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "sub": "Khairagarh Apmc",
+    "name": "Khairagarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2213",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "sub": "Samsabad Apmc",
+    "name": "Samsabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2214",
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "sub": "Atrauli Apmc",
+    "name": "Atrauli Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2215",
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "sub": "Charra Apmc",
+    "name": "Charra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2216",
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "sub": "Dhanaura Apmc",
+    "name": "Dhanaura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2217",
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "sub": "Hasanpur Apmc",
+    "name": "Hasanpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2218",
+    "state": "Uttar Pradesh",
+    "district": "Badaun",
+    "sub": "Babrala Apmc",
+    "name": "Babrala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2219",
+    "state": "Uttar Pradesh",
+    "district": "Badaun",
+    "sub": "Dataganj Apmc",
+    "name": "Dataganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2220",
+    "state": "Uttar Pradesh",
+    "district": "Badaun",
+    "sub": "Shahaswan Apmc",
+    "name": "Shahaswan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2221",
+    "state": "Uttar Pradesh",
+    "district": "Baghpat",
+    "sub": "Khekda Apmc",
+    "name": "Khekda Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2222",
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "sub": "Naanpara Apmc",
+    "name": "Naanpara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2223",
+    "state": "Uttar Pradesh",
+    "district": "Balrampur",
+    "sub": "Panchpedwa Apmc",
+    "name": "Panchpedwa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2224",
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "sub": "Anwala Apmc",
+    "name": "Anwala Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2225",
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahar",
+    "sub": "Gulavati Apmc",
+    "name": "Gulavati Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2226",
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahar",
+    "sub": "Sikarpur Apmc",
+    "name": "Sikarpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2227",
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahar",
+    "sub": "Siyana Apmc",
+    "name": "Siyana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2228",
+    "state": "Uttar Pradesh",
+    "district": "Etah",
+    "sub": "Awagarh Apmc",
+    "name": "Awagarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2229",
+    "state": "Uttar Pradesh",
+    "district": "Etawah",
+    "sub": "Jasvantnagar Apmc",
+    "name": "Jasvantnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2230",
+    "state": "Uttar Pradesh",
+    "district": "Farukhabad",
+    "sub": "Farukhabad Apmc",
+    "name": "Farukhabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2231",
+    "state": "Uttar Pradesh",
+    "district": "Farukhabad",
+    "sub": "Kamlaganj Apmc",
+    "name": "Kamlaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2232",
+    "state": "Uttar Pradesh",
+    "district": "Farukhabad",
+    "sub": "Kayamganj Apmc",
+    "name": "Kayamganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2233",
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "sub": "Fatehpur Apmc",
+    "name": "Fatehpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2234",
+    "state": "Uttar Pradesh",
+    "district": "Hathras",
+    "sub": "Shadabad Apmc",
+    "name": "Shadabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2235",
+    "state": "Uttar Pradesh",
+    "district": "Hathras",
+    "sub": "Sikandraraau Apmc",
+    "name": "Sikandraraau Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2236",
+    "state": "Uttar Pradesh",
+    "district": "Jalaun (Orai)",
+    "sub": "Madhogarh Apmc",
+    "name": "Madhogarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2237",
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Dehat",
+    "sub": "Rura Apmc",
+    "name": "Rura Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2238",
+    "state": "Uttar Pradesh",
+    "district": "Kaushambi",
+    "sub": "Bharwari Apmc",
+    "name": "Bharwari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2239",
+    "state": "Uttar Pradesh",
+    "district": "Khiri (Lakhimpur)",
+    "sub": "Maigalganj Apmc",
+    "name": "Maigalganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2240",
+    "state": "Uttar Pradesh",
+    "district": "Lalitpur",
+    "sub": "Lalitpur Apmc",
+    "name": "Lalitpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2241",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "sub": "Banthara Apmc",
+    "name": "Banthara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2242",
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "sub": "Anandnagar Apmc",
+    "name": "Anandnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2243",
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "sub": "Kosikalan Apmc",
+    "name": "Kosikalan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2244",
+    "state": "Uttar Pradesh",
+    "district": "Mau(Maunathbhanjan)",
+    "sub": "Doharighat Apmc",
+    "name": "Doharighat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2245",
+    "state": "Uttar Pradesh",
+    "district": "Mau(Maunathbhanjan)",
+    "sub": "Kopaganj Apmc",
+    "name": "Kopaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2246",
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "sub": "Ahirora Apmc",
+    "name": "Ahirora Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2247",
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "sub": "Pratapgarh Apmc",
+    "name": "Pratapgarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2248",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "sub": "Lediyari Apmc",
+    "name": "Lediyari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2249",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "sub": "Prayagraj Apmc",
+    "name": "Prayagraj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2250",
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "sub": "Sirsa Apmc",
+    "name": "Sirsa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2251",
+    "state": "Uttar Pradesh",
+    "district": "Raebarelli",
+    "sub": "Lalganj Apmc",
+    "name": "Lalganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2252",
+    "state": "Uttar Pradesh",
+    "district": "Raebarelli",
+    "sub": "Salon Apmc",
+    "name": "Salon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2253",
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "sub": "Chutmalpur Apmc",
+    "name": "Chutmalpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2254",
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "sub": "Gangoh Apmc",
+    "name": "Gangoh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2255",
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "sub": "Bhehjoi Apmc",
+    "name": "Bhehjoi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2256",
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "sub": "Sambhal Apmc",
+    "name": "Sambhal Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2257",
+    "state": "Uttar Pradesh",
+    "district": "Sant Kabir Nagar",
+    "sub": "Khalilabad Apmc",
+    "name": "Khalilabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2258",
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "sub": "Jalalabad Apmc",
+    "name": "Jalalabad Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2259",
+    "state": "Uttar Pradesh",
+    "district": "Shamli",
+    "sub": "Kairana Apmc",
+    "name": "Kairana Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2260",
+    "state": "Uttar Pradesh",
+    "district": "Shamli",
+    "sub": "Khandhla Apmc",
+    "name": "Khandhla Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2261",
+    "state": "Uttar Pradesh",
+    "district": "Shravasti",
+    "sub": "Payagpur Apmc",
+    "name": "Payagpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2262",
+    "state": "Uttar Pradesh",
+    "district": "Siddharth Nagar",
+    "sub": "Naugarh Apmc",
+    "name": "Naugarh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2263",
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "sub": "Hargaon (Laharpur) Apmc",
+    "name": "Hargaon (Laharpur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2264",
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "sub": "Sitapur Apmc",
+    "name": "Sitapur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2265",
+    "state": "Uttarakhand",
+    "district": "Dehradoon",
+    "sub": "Chakrata Apmc",
+    "name": "Chakrata Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2266",
+    "state": "Uttarakhand",
+    "district": "Dehradoon",
+    "sub": "Dehradoon Apmc",
+    "name": "Dehradoon Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2267",
+    "state": "Uttarakhand",
+    "district": "Dehradoon",
+    "sub": "Rishikesh Apmc",
+    "name": "Rishikesh Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2268",
+    "state": "Uttarakhand",
+    "district": "Dehradoon",
+    "sub": "Vikasnagar Apmc",
+    "name": "Vikasnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2269",
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "sub": "Haridwar Union Apmc",
+    "name": "Haridwar Union Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2270",
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "sub": "Manglaur Apmc",
+    "name": "Manglaur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2271",
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "sub": "Roorkee Apmc",
+    "name": "Roorkee Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2272",
+    "state": "Uttarakhand",
+    "district": "Nanital",
+    "sub": "Haldwani Apmc",
+    "name": "Haldwani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2273",
+    "state": "Uttarakhand",
+    "district": "Nanital",
+    "sub": "Ramnagar Apmc",
+    "name": "Ramnagar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2274",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Gadarpur Apmc",
+    "name": "Gadarpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2275",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Jaspur(Uc) Apmc",
+    "name": "Jaspur(Uc) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2276",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Kashipur Apmc",
+    "name": "Kashipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2277",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Khateema Apmc",
+    "name": "Khateema Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2278",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Kicchha Apmc",
+    "name": "Kicchha Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2279",
+    "state": "Uttarakhand",
+    "district": "Udhamsinghnagar",
+    "sub": "Sitarganj Apmc",
+    "name": "Sitarganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2280",
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "sub": "Alipurduar Apmc",
+    "name": "Alipurduar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2281",
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "sub": "Falakata Apmc",
+    "name": "Falakata Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2282",
+    "state": "West Bengal",
+    "district": "Bankura",
+    "sub": "Bankura Sadar Apmc",
+    "name": "Bankura Sadar Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2283",
+    "state": "West Bengal",
+    "district": "Bankura",
+    "sub": "Bishnupur(Bankura) Apmc",
+    "name": "Bishnupur(Bankura) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2284",
+    "state": "West Bengal",
+    "district": "Bankura",
+    "sub": "Indus(Bankura Sadar) Apmc",
+    "name": "Indus(Bankura Sadar) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2285",
+    "state": "West Bengal",
+    "district": "Bankura",
+    "sub": "Khatra Apmc",
+    "name": "Khatra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2286",
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "sub": "Bolpur Apmc",
+    "name": "Bolpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2287",
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "sub": "Rampurhat Apmc",
+    "name": "Rampurhat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2288",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Baxirhat Apmc",
+    "name": "Baxirhat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2289",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Dinhata Apmc",
+    "name": "Dinhata Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2290",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Haldibari Apmc",
+    "name": "Haldibari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2291",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Mathabhanga Apmc",
+    "name": "Mathabhanga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2292",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Mekhliganj Apmc",
+    "name": "Mekhliganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2293",
+    "state": "West Bengal",
+    "district": "Coochbehar",
+    "sub": "Toofanganj Apmc",
+    "name": "Toofanganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2294",
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "sub": "Balurghat Apmc",
+    "name": "Balurghat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2295",
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "sub": "Gangarampur(Dakshin Dinajpur) Apmc",
+    "name": "Gangarampur(Dakshin Dinajpur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2296",
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "sub": "Darjeeling Apmc",
+    "name": "Darjeeling Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2297",
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "sub": "Karsiyang(Matigara) Apmc",
+    "name": "Karsiyang(Matigara) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2298",
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "sub": "Siliguri Apmc",
+    "name": "Siliguri Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2299",
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "sub": "Champadanga Apmc",
+    "name": "Champadanga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2300",
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "sub": "Kalipur Apmc",
+    "name": "Kalipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2301",
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "sub": "Pandua Apmc",
+    "name": "Pandua Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2302",
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "sub": "Sheoraphuly Apmc",
+    "name": "Sheoraphuly Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2303",
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "sub": "Bara Bazar (Posta Bazar) Apmc",
+    "name": "Bara Bazar (Posta Bazar) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2304",
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "sub": "Sealdah Koley Market Apmc",
+    "name": "Sealdah Koley Market Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2305",
+    "state": "West Bengal",
+    "district": "Malda",
+    "sub": "Gajol Apmc",
+    "name": "Gajol Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2306",
+    "state": "West Bengal",
+    "district": "Malda",
+    "sub": "Samsi Apmc",
+    "name": "Samsi Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2307",
+    "state": "West Bengal",
+    "district": "Medinipur(E)",
+    "sub": "Kolaghat Apmc",
+    "name": "Kolaghat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2308",
+    "state": "West Bengal",
+    "district": "Medinipur(E)",
+    "sub": "Tamluk (Medinipur E) Apmc",
+    "name": "Tamluk (Medinipur E) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2309",
+    "state": "West Bengal",
+    "district": "Medinipur(W)",
+    "sub": "Garbeta(Medinipur) Apmc",
+    "name": "Garbeta(Medinipur) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2310",
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "sub": "Beldanga Apmc",
+    "name": "Beldanga Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2311",
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "sub": "Jangipur Apmc",
+    "name": "Jangipur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2312",
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "sub": "Jiaganj Apmc",
+    "name": "Jiaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2313",
+    "state": "West Bengal",
+    "district": "Nadia",
+    "sub": "Bethuadahari Apmc",
+    "name": "Bethuadahari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2314",
+    "state": "West Bengal",
+    "district": "Nadia",
+    "sub": "Kalyani Apmc",
+    "name": "Kalyani Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2315",
+    "state": "West Bengal",
+    "district": "Nadia",
+    "sub": "Karimpur Apmc",
+    "name": "Karimpur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2316",
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "sub": "Barasat Apmc",
+    "name": "Barasat Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2317",
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "sub": "Habra Apmc",
+    "name": "Habra Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2318",
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "sub": "Burdwan Apmc",
+    "name": "Burdwan Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2319",
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "sub": "Guskara Apmc",
+    "name": "Guskara Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2320",
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "sub": "Kalna Apmc",
+    "name": "Kalna Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2321",
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "sub": "Katwa Apmc",
+    "name": "Katwa Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2322",
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "sub": "Memari Apmc",
+    "name": "Memari Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2323",
+    "state": "West Bengal",
+    "district": "Puruliya",
+    "sub": "Balarampur Apmc",
+    "name": "Balarampur Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2324",
+    "state": "West Bengal",
+    "district": "Sounth 24 Parganas",
+    "sub": "Diamond Harbour(South 24-Pgs) Apmc",
+    "name": "Diamond Harbour(South 24-Pgs) Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2325",
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "sub": "Kaliaganj Apmc",
+    "name": "Kaliaganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  },
+  {
+    "id": "m2326",
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "sub": "Raiganj Apmc",
+    "name": "Raiganj Apmc APMC",
+    "lat": 20.0,
+    "lng": 77.0
+  }
+];

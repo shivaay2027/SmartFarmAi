@@ -1,0 +1,77 @@
+services:
+  api-gateway:
+    image: kong:3.4
+    ports:
+      - "8000:8000"
+    environment:
+      - KONG_DATABASE=off
+      - KONG_DECLARATIVE_CONFIG=/etc/kong/kong.yml
+    volumes:
+      - ./config/kong.yml:/etc/kong/kong.yml
+
+  auth-service:
+    build: backend/auth-service
+    ports:
+      - "3001:3000"
+    environment:
+      - NODE_ENV=development
+      - DB_URI=postgres://user:pass@postgres:5432/smartfarm
+
+  ai-ml-service:
+    build: backend/ai-ml-service
+    ports:
+      - "8001:8000"
+    environment:
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+    volumes:
+      - ./backend/ai-ml-service:/app
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+
+  iot-service:
+    build: backend/iot-service
+    ports:
+      - "3002:3000"
+    environment:
+      - MQTT_BROKER=mqtt://emqx:1883
+
+  marketplace-service:
+    build: backend/marketplace-service
+    ports:
+      - "3003:3000"
+    environment:
+      - DB_URI=postgres://user:pass@postgres:5432/smartfarm
+
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass
+      - POSTGRES_DB=smartfarm
+    ports:
+      - "5432:5432"
+
+  mongodb:
+    image: mongo:6.0
+    ports:
+      - "27017:27017"
+
+  redis:
+    image: redis:7.0-alpine
+    ports:
+      - "6379:6379"
+
+  emqx:
+    image: emqx:5.0
+    ports:
+      - "1883:1883"
+      - "18083:18083" # Dashboard
+
+volumes:
+  pgdata:
+  mongodata:

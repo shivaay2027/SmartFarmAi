@@ -1,0 +1,31 @@
+name: smartfarm_mobile
+description: SmartFarm AI Offline-First Mobile Client
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0    # Local offline database
+  path_provider: ^2.1.1
+  dio: ^5.3.3        # Networking 
+  provider: ^6.0.5   # State management
+  mqtt_client: ^10.0.0
+  google_maps_flutter: ^2.5.0
+  workmanager: ^0.5.2 # Background syncing
+  tflite_flutter: ^0.10.3 # On-device inference
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/yolov8_pest.tflite
+    - assets/models/labels.txt

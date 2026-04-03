@@ -1,0 +1,15 @@
+{
+  "name": "smartfarm-iot",
+  "version": "1.0.0",
+  "description": "IoT Telemetry Processing for SmartFarm AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.0.0",
+    "mongoose": "^8.0.0",
+    "express": "^4.18.2",
+    "redis": "^4.6.10"
+  }
+}
