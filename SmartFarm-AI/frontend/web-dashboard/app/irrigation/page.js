@@ -183,7 +183,9 @@ function FieldMap({ zones, showNDVI }) {
 
   useEffect(() => {
     if (typeof window === 'undefined' || mapInstanceRef.current) return
+    mapInstanceRef.current = 'loading' // Prevent double-trigger during async import in StrictMode
     import('leaflet').then(L => {
+      if (!mapRef.current || mapRef.current._leaflet_id) return // Extra safeguard against re-initialization
       delete L.Icon.Default.prototype._getIconUrl
       L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png', iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png', shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png' })
       const map = L.map(mapRef.current, { center: [FARM_LAT, FARM_LNG], zoom: 14, zoomControl: true })
